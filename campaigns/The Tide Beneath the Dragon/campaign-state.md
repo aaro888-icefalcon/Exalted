@@ -173,10 +173,19 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Exchange 6 (Scene 3):** Ophris traced the god's Essence (Per 5 + Occult 3 + hot-trail 2 = 10d → **6 succ/thr3**).
   **ANCHOR FOUND:** the drowned shrine-heart in the **south reed-channel** (= the emissary's parley spot). Felt the god's
   **grief**. Veil held (strong roll → not read back). No motes spent.
-- **Open decision (the heart of it):** he knows the foot. Now — **go to the south reed-channel** (alone, as the emissary
-  bade? with force? tell Anuhya the location & bring the cage?) and **break the heart-stone (subjugate the grieving god;
-  fulfil the sworn task / Akatha / cover) OR parley (the emissary offered terms; a path that doesn't enslave Mahru?).**
-  The cage and the open hand are the same drowned stone. Wards eroding; time short. Init 3, Periph 25/38, anima settling.
+- **Exchange 7 (Scene 3 / CLIMAX at the south reed-channel):** Ophris went to the heart-stone and **brought Anuhya +
+  Akhil** (chose the cage over the solo parley; abandoned Anuhya's circle to the eroding wards). At the drowned heart,
+  the **emissary still tries to talk** (Fate: Yes) despite the betrayal of "come alone." **Mahru's terms (via emissary):**
+  he never wanted the war/worship; the legion burned his shrine with his faithful inside; he answered grief-for-grief
+  (the taken for the taken). He will not be **caged** into the Prasadi pantheon — he wants to be **LEFT**: the impiety
+  answered, his dead and his quiet water kept; then the flood recedes. *"Break the stone and you only finish the murder."*
+  **Anuhya counter-presses for the hammer** — *"a rebel god pleading through a corpse's mouth… break the stone"* — and
+  her eyes lingered on Ophris's leaves/his unexplained warding **a beat too long.**
+- **THE CORE CHOICE (under the god-hunter's eye):** **break the heart-stone** (subjugate/finish the grieving god — fulfil
+  the sworn task, save the camp the Pure Way way, hold cover) **vs. parley/appease** (answer the impiety, let Mahru
+  withdraw free — honest & merciful, aligns his secret sympathies — but **mercy to a rebel god = heresy in front of
+  Akatha**, and could crack his cover). Exposure at PEAK: a god's heart + an Akatha both at hand. Wards eroding = time short.
+  Init 3 · Periph 25/38 · WP 5 · Limit 0 · anima settling, mask holding.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
