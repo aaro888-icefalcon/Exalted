@@ -1,0 +1,15 @@
+# Python caches from the skills' scripts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# NOTE: campaign folders under campaigns/ are intentionally NOT ignored —
+# a campaign folder IS the save file and must be committed to survive the
+# ephemeral environment. Only the live mechanical scratch is transient, but
+# it is small and safe to commit too, so it is left tracked.

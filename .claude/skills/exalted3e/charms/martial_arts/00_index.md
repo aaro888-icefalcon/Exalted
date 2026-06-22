@@ -1,0 +1,92 @@
+# Martial Arts — Style Index
+*Core styles fully extracted in this folder. Any other style: pull from the cited vault book on request.*
+
+- **Air Dragon Style** — Dragon-Blooded - What Fire Has Wrought
+- **Albicant Sepulcher of Extinction Style** — Abyssals - Sworn to the Grave
+- **Ambush Predator Style** — Core Rulebook
+- **Backstage Storage Style** — Exigents - Out of the Ashes
+- **Battlefield Genius Style** — Sidereals - Charting Fate's Course
+- **Bear Style** — Lunars - Many-Faced Strangers v3
+- **Black Claw Style** ✓ — Core Rulebook
+- **Blow-Wind-Blow Style** — Sidereals - Charting Fate's Course
+- **Blurred Form Style** — Core Rulebook
+- **Brigand-and-Carouser Attracting Style** — Sidereals - Charting Fate's Course
+- **Caging Inquiry Style** — Exigents - Miracles of the Divine Flame, Miracles of the Divine Flame
+- **Centipede Style** — Lunars - Fangs at the Gate
+- **Charcoal March of Spiders Style** — Sidereals - Charting Fate's Course
+- **Citrine Poxes of Contagion Style** — Sidereals - Charting Fate's Course
+- **Cold-Hearted Betrayal Style** — Exigents - Out of the Ashes
+- **Crane Style** ✓ — Core Rulebook
+- **Crashing Wave Style** — Dragon-Blooded - What Fire Has Wrought
+- **Crystal Chameleon Style** — Alchemicals - Forged by the Machine God
+- **Cunning Subversion Style** — Abyssals - Sworn to the Grave
+- **Drawing Lightning Style** — Dragon-Blooded - What Fire Has Wrought
+- **Drowning in Negotiation Style** — Dragon-Blooded - What Fire Has Wrought
+- **Eagle-Wing Style** — Core Rulebook
+- **Earth Dragon Style** — Dragon-Blooded - What Fire Has Wrought
+- **Ebon Shadow Style** ✓ — Core Rulebook
+- **Emerald Gyre of Aeons Style** — Sidereals - Charting Fate's Course
+- **Exquisite Etiquette Style** — Abyssals - Sworn to the Grave
+- **Falcon Style** — Lunars - Fangs at the Gate
+- **Feather Foot Style** — Core Rulebook
+- **Fine Passage-Negotiating Style** — Dragon-Blooded - What Fire Has Wrought
+- **Fire Dragon Style** — Dragon-Blooded - What Fire Has Wrought
+- **Flawless Assassination Style** — Abyssals - Sworn to the Grave
+- **Force-Building Predator Style** — Core Rulebook
+- **Golden Janissary Style** — Dragon-Blooded - What Fire Has Wrought
+- **Hard-Nosed Denial Style** — Lunars - Fangs at the Gate
+- **Hardened Killer Training Style** — Abyssals - Sworn to the Grave
+- **Heart-Brightening Presentation Style** — Sidereals - Charting Fate's Course
+- **Hungry Ghost Style** — Abyssals - Sworn to the Grave
+- **Iron Simhata Style** — Core Rulebook
+- **Laughing Monster Style** — Lunars - Fangs at the Gate
+- **Lightning Declamation Style** — Dragon-Blooded - What Fire Has Wrought
+- **Lightning Strike Style** — Dragon-Blooded - What Fire Has Wrought
+- **Live Wire Style** — Alchemicals - Forged by the Machine God
+- **Mantis Style** — Dragon-Blooded - What Fire Has Wrought
+- **Master Thespian Style** — Core Rulebook
+- **Monkey Style** — Lunars - Many-Faced Strangers v3
+- **Morbid Fascination Style** — Abyssals - Sworn to the Grave
+- **Naked Thief Style** — Dragon-Blooded - What Fire Has Wrought
+- **Obsidian Shards of Infinity Style** — Sidereals - Charting Fate's Course
+- **Poetic Expression Style** — Core Rulebook
+- **Pounding Surf Style** — Dragon-Blooded - What Fire Has Wrought
+- **Prismatic Arrangement of Creation Style** — Sidereals - Charting Fate's Course
+- **Rat Style** — Lunars - Many-Faced Strangers v3
+- **Rats-in-the-Basement Style** — Lunars - Fangs at the Gate
+- **Righteous Devil Style** ✓ — Core Rulebook
+- **Rose-Lipped Seduction Style** — Core Rulebook
+- **Savage Shade Style** — Abyssals - Sworn to the Grave
+- **Shaping Hand Style** — Dragon-Blooded - What Fire Has Wrought
+- **Shining Expression Style** — Core Rulebook
+- **Silver-Voiced Nightingale Style** ✓ — Core Rulebook
+- **Single Point Shining Into the Void Style** ✓ — Core Rulebook
+- **Snake Style** ✓ — Core Rulebook
+- **Snake-Finger Style** — Lunars - Fangs at the Gate
+- **Soaring Pegasus Style** — Core Rulebook
+- **Someone’s Son Style** — Sidereals - Charting Fate's Course
+- **Soul-Marking Style** — Dragon-Blooded - What Fire Has Wrought
+- **Spider Foot Style** — Core Rulebook
+- **Steel Devil Style** ✓ — Core Rulebook
+- **Steel Paw Style** — Lunars - Fangs at the Gate
+- **Stoking Bonfire Style** — Dragon-Blooded - What Fire Has Wrought
+- **Stout-Hearted Brewing Style** — Exigents - Out of the Ashes
+- **Superior Predator Style** — Abyssals - Sworn to the Grave
+- **Superior-Entreating Memorial Style** — Sidereals - Charting Fate's Course
+- **Swaying Grass Dance Style** — Lunars - Fangs at the Gate
+- **Swift Dollmaker Style** — Exigents - Out of the Ashes
+- **Swift Killer Style** — Lunars - Fangs at the Gate
+- **Thousand Blades Style** — Lunars - Many-Faced Strangers v3
+- **Thousand Wounds Gear Style** — Alchemicals - Forged by the Machine God
+- **Throne Shadow Style** — Sidereals - Charting Fate's Course
+- **Tiger Style** ✓ — Core Rulebook
+- **Toad Style** — Lunars - Many-Faced Strangers v3
+- **Trickster-Menagerie Style** — Exigents - Miracles of the Divine Flame, Miracles of the Divine Flame
+- **Unmatched Showmanship Style** — Core Rulebook
+- **Vanishing Immersion Style** — Core Rulebook
+- **Violet Bier of Sorrows Style** — Sidereals - Charting Fate's Course
+- **Warm-Faced Seduction Style** — Dragon-Blooded - What Fire Has Wrought
+- **Water Dragon Style** — Dragon-Blooded - What Fire Has Wrought
+- **White Reaper Style** ✓ — Core Rulebook
+- **White Veil Style** — Dragon-Blooded - What Fire Has Wrought
+- **Wood Dragon Style** — Dragon-Blooded - What Fire Has Wrought

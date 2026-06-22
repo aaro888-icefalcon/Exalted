@@ -1,0 +1,2 @@
+# Setting canon (seed)
+Creation ground-truth lives in `setting/` as cards (Surface vs Truth, clocks, hooks, handles, links, vault cites). Start from `setting/00_index.md` (the cosmology/geography spine + gazetteer). The solo-Lunar default home turf is the **North** (`setting/directions/north.md`) and the **Lunar Dominions** (`setting/directions/lunar_dominions.md`). Faction starting board: `setting/04_factions.md`. Canon overrides invention; consult before inventing, and only narrate a card's **Truth** when its discovery trigger fires.
