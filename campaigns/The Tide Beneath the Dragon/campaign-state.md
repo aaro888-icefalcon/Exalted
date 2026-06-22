@@ -66,7 +66,9 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
 7. **Mahru, the Drowned God of the border marches** — wronged frontier god; named a "rebel god," marked for subjugation —
-   and **struck first:** a night assault on Vashri Crossing to break the rites before they seal. (AC-Invoked → weight 3.) *(3)*
+   and **struck first.** In this assault he is **BODILESS: he *is* the flood** (Fate: Exceptional No to a manifested
+   commander) — cannot be dueled. The surge drives **past the camp at the Akatha rite-pavilion**, to smash the
+   subjugation rites before they seal. Has taken Ophris's 11 unburied dead down into the water. (AC-Invoked, weight 3.) *(3)*
 8. **Mahru's ruined emissary** (the waterline stranger) — a **drowned god-blood / shrine-priest of Mahru** (Fate:
    Yes, agent of the marsh-god), uncanny ("Mysteriously · Ruined"): silt-grey, marsh-wet, lungs full of river,
    wearing the burned-and-rotted vestments of the shrine the legion torched. **Well-disposed** (Fate: Yes) — came to
@@ -93,8 +95,9 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   counsel in open court; she answered by fixing her attention on him personally and proposing to keep him "under her eye."
 - **Parley window with Mahru [OPEN but BLOODYING]** — the emissary offered terms at the south reed-channel before the
   rites; now Mahru has attacked the camp. Whether the emissary's good faith survives this (or was ever real) is unknown.
-- **The rites vs the assault** — Mahru struck to break the subjugation rites before Akatha can seal them. Tonight decides
-  whether the camp holds, and at what cost.
+- **The rites vs the assault** — Mahru (as the flood) drives at the **Akatha rite-pavilion** to smash the subjugation
+  rites before they seal. Tonight decides whether the cage closes — and whether Ophris fights to close it.
+- **The taken dead** — the marsh swallowed Ophris's 11 unburied soldiers. What Mahru does with the drowned: unknown hook.
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -122,10 +125,16 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **SCENE 3 — "The Marsh Doesn't Wait"** · Vashri Crossing, night camp · Turmoil/Chaos 5 · **OPEN (Turning Point 1).**
   Ophris was visiting his grieving crew when **Mahru's host stormed the camp's marsh-ward edge** — drowned dead, marsh-
   beasts, reed-painted marsh-folk, the water itself — pre-empting the rites. The assault hits the **soft seam of the
-  plan Ophris spoke an hour ago** (→ the plan leaked). His depleted cohort + the 11 dead are in its path; Akhil's
-  daiklave drawn (Fire-light); the men look to Ophris. **Tension:** the Charms that could turn the tide also risk
-  flaring his secret in front of his own troops / nearby DBs. **No dice yet — at the brink of battle; awaiting his action.**
-  (If he fights → Join Battle 7, Initiative system; may also engage War/mass-combat for the broader fight.)
+  plan Ophris spoke an hour ago** (→ the plan leaked). **Exchange 1 resolved:** Ophris ordered the **fall-back**
+  (Cha+War+stunt, **5 succ/thr 2**) → crew pulled out of the seam in order, wounded saved (Akhil enforcing); **the flood
+  took the 11 unburied dead.** He strode forward to find/kill the leading spirit — **Fate: Exceptional No, there is none:
+  Mahru is the bodiless flood, unduelable.** His hunt (Per+Aware+spec, **5 succ/thr 2**) revealed the surge's true axis:
+  **it drives past the camp at the Akatha rite-pavilion**, to break the rites before they seal. Anima still **Dim** (no
+  flare; mask = Essential Mirror Nature, doesn't burn). **Disguise ruling:** Essential Mirror Nature + Shifting Penumbra
+  Stance let his anima flare as a Wood Aspect's & use ordinary Charms safely; **flagrant Lunar miracles (the Sky-Titan)
+  would blow it**, and a god's Essence-sight may pierce the mask if he closes with Mahru.
+- **Open decision (cliff):** Ophris alone & forward, drowned/beasts turning on him, the pavilion upslope about to break —
+  **defend the cage he's sworn to complete, against the wronged god he grieves?** (Engaging foes → Join Battle 7.)
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
