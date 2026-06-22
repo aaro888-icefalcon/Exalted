@@ -15,6 +15,13 @@
   steppes to the south, jungles to the SE (home of the **Sky Titan** beast).
 - **Ruled by Dragon-Blooded houses** ("Princes of the Earth" command its armies). The conquering houses include
   **House Ophris and House Burano** *(vault timeline: "Burano and Ophris house legions conquer Prasad")*.
+- **THREE Dragon-Blooded clans** (vault: *Heirs to the Shogunate*): **Ophris** (sociable, beauty-loving, far-flung
+  informal contacts), **Burano** (proud, traditionalist, devout), and **Akatha — the God-Blooded priest-clan.**
+  Akatha keep Prasad's spirit courts (the Fecund Court, the Court of the Crimson-Tailed Banner): their God-Blooded
+  serve as priests, diplomats, and **spies** for the gods; they arrange divine marriages, negotiate foreign gods into
+  the Prasadi pantheon — and *"in times of war, foreign gods sue Akatha for peace, or find themselves targeted by the
+  clan's assassins."* Akatha Dragon-Blooded **monks wield martial arts to punish disobedient gods and heretical cults.**
+  Subjugating a rebel frontier god is squarely **Akatha's portfolio.** (Exigents are adopted into Akatha.)
 - **Fanatically Immaculate — the "Pure Way":** treats Anathema (Solars, **Lunars**) as abominations to destroy, and
   aggressively suppresses unbound gods and heretics. **More zealous than the Realm's own Order.** Ophris's prime danger.
 - **Expansionist** ("Prasad's Advance"): pushes borders + Pure Way outward. Conquered then lost **Champoor**; drove the

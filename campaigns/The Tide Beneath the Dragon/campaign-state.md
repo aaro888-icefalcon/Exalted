@@ -37,16 +37,20 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 3. **Family & House Ophris** — protect the kin who share the secret's risk. *(2)*
 4. **The Burano rivalry** — outshine Burano Ravan / "make something of myself." Ravan just drew first blood in court. *(2)*
 5. **Mahru's reckoning** — the drowned god who took your soldiers; now a Pure Way-marked "rebel god." *(2)*
-6. **The sanctified expedition** — Prelate Anuhya proposes Ophris lead a rite-bound expedition to subjugate Mahru,
-   under her direct oversight. A chance to "make something of myself" — and a Pure Way lamp held to the secret. *(2, emerging)*
+6. **The sanctified expedition** — ACCEPTED. Ophris will lead a rite-bound expedition to subjugate/destroy Mahru,
+   under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
+   something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
+   to manifest on the water. *(3, active)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
 1. **Akhil** — younger brother; knows the secret; closest tie. Present in the Vashri court as Ophris's aide. *(3)*
 2. **Bhaskar & Sudha** — parents, heads of House Ophris; hid him. *(2)*
 3. **Tanisa Ring-Eater** — shahan-ya, master schemer; runs Ophris as an asset (Mount Namas). *(2)*
 4. **Burano Ravan** — rival of House Burano. Exposed Ophris's false blame-shift in open court. *(2)*
-5. **Prelate Anuhya** — Pure Way prelate ("the Spotless Word"), white-robed; austere, theocratic. Has fixed her
-   attention on "the new Wood Aspect" and means to put him under her eye on a sanctified expedition. **THE DANGER.** *(3)*
+5. **Prelate Anuhya** — **Clan Akatha** (Exceptional-Yes), and senior: a god-clan prelate-monk schooled in the martial
+   rites that bring rebel gods to heel. White-robed, austere, serene. Now bound to Ophris as overseer of the sanctified
+   expedition; will "spend the road together" teaching him the rites — and expects his Wood element to "show plainly"
+   on the marches. **THE DANGER — the worst possible chaperone for a hidden Lunar.** *(3)*
 6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
    Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
@@ -60,6 +64,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Prasad / the Pure Way** (Mag 4) — expand & purge Anathema/heresy; Problem: border wars on many fronts.
 - **House Ophris** (Mag 2) — rise among Prasad's houses; Problem: a hidden Anathema in its own blood.
 - **House Burano** (Mag 2) — outshine House Ophris; Problem: rivalry with House Ophris.
+- **Clan Akatha** (Mag ~3, not yet in json) — God-Blooded priest-clan; keeps the spirit courts, weds & murders gods;
+   Pure Way's hand on divine affairs. Now personally engaged via Prelate Anuhya. *(add to json on next faction turn.)*
 - **The Silver Pact** (Mag 3) — tear down DB tyranny, shelter Lunars; Tanisa's hand reaches into Prasad.
 - **The Guild** (Mag 3) — profit from the Dreaming Sea trade.
 - **Ysyr** (Mag 3) — extend the sorcerer-princes against Prasad.
@@ -84,6 +90,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Earned in Scene 1:** the failed reconnaissance of the Silt Marches was House Ophris's OWN charge, not Burano's —
   Ophris's blame-shift was false and Ravan proved it publicly. The Pure Way (via Prelate Anuhya) has formally named
   **Mahru a "rebel god"** to be subjugated by sanctified expedition. Anuhya's attention is now personally on Ophris.
+- **Prasad has three Dragon-Blooded clans** — Ophris, Burano, and **Akatha** (the God-Blooded priest-clan that manages
+  and punishes gods). **Prelate Anuhya is a senior Akatha** god-hunter; Ophris will lead Mahru's subjugation under her.
 
 ## Scene
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · Turmoil/Chaos 5 · ONGOING (untested first scene).
@@ -95,9 +103,15 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   **Ravan exposed the false blame** in open court. Ophris deferred to **Prelate Anuhya** for "the best approach" — she
   declined to shelter him (Fate: NO) and instead declared Mahru a *rebel god* to be subjugated by sanctified expedition,
   **led by Ophris under her personal oversight** ("unless you have some reason you should not"), her gaze on his leaves.
-- **Open decision (cliff):** Ophris must respond to the prelate's trap-proposal before the whole court. Akhil at his side.
-- **Adversity counter:** 1 (pressed: standing bruised, scrutiny clock ticked, a Pure Way leash offered) · **Self-audit drift:** 0
-- **NOTE:** Turmoil/Chaos tick deferred to scene END (Mythic adjusts per scene; this court is still in progress).
+- **Exchange 2:** Ophris paid pious homage and ACCEPTED the charge (smart, low-suspicion; defused the needle, locked the
+  expedition). Fate Q resolved Anuhya as **Clan Akatha — Exceptional Yes**: a senior god-clan prelate-monk, a god-hunter.
+  She's now his expedition overseer ("we'll spend the road together") and pointedly expects his Wood element to "show
+  plainly." Court is breaking; Ravan denied his kill but the false-blame stain holds; Akhil at his side.
+- **Open decision (cliff):** the court disperses around Ophris — a last move before the scene closes (Akhil? Ravan?
+  Anuhya? withdraw to prepare?).
+- **Adversity counter:** 1 (pressed: standing bruised, scrutiny clock ticked, now leashed to an Akatha god-hunter) · **Self-audit drift:** 0
+- **NOTE:** Turmoil/Chaos tick deferred to scene END. Leaning **+1 → 6** (scene moved against his core interest: he's
+  bound to the most dangerous overseer possible). Confirm at close.
 
 ## Archive pointer
 - Resolved Threads / dead Characters / spent clocks → `archive.md`
