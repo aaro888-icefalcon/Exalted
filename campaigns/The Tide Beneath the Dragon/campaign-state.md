@@ -91,8 +91,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 
 ## Clocks (offscreen, ticking)
 - **Prasad's Advance [3/6]** — the empire pushes its frontier & Pure Way outward (canon).
-- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [1/?]** — TICKED: Ophris invited Prelate Anuhya's
-  counsel in open court; she answered by fixing her attention on him personally and proposing to keep him "under her eye."
+- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [2/?]** — TICKED again: Ophris saved Anuhya's circle with
+  *skilled god-warding* under fire. She's grateful AND newly intrigued — "where does a field-surgeon learn to ward a
+  god?" An Akatha's professional eye is now actively on him (attention, not yet suspicion).
+- **Mahru's attention on Ophris** — drawing a warding line against the flood turned the god's vast, bodiless awareness
+  toward him. Whether Mahru's Essence-sight perceived his Lunar truth through the disguise: **UNEARNED, ominous.**
 - **Parley window with Mahru [OPEN but BLOODYING]** — the emissary offered terms at the south reed-channel before the
   rites; now Mahru has attacked the camp. Whether the emissary's good faith survives this (or was ever real) is unknown.
 - **The rites vs the assault** — Mahru (as the flood) drives at the **Akatha rite-pavilion** to smash the subjugation
@@ -156,9 +159,17 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   Def +1, Ovw 4** (the +1 Def is why Parry is 6 with it drawn). Decisive to-hit uses no weapon bonus (engine rule).
 - **COMBAT board (scratch /tmp/tide_combat.json):** **Ophris Init 3 / HL 10 full**; **drowned Init −2, HL 3/10, Crashed**
   (bottomless — Mahru replenishes). Onslaught wearing Ophris's guard when swarmed.
-- **Open decision (URGENT):** the cage is seconds from breaking. **Find/break Mahru's ANCHOR** (still UNKNOWN — needs a
-  hunt: Per/Int, the emissary, the south reed-channel, the flood's logic) **or save Anuhya's circle** — or **let the
-  rites fail** (the wronged god goes free: secretly half-wanted, but fails his command/Akatha/cover). Init only 3 now.
+- **Exchange 5 (Scene 3):** Ophris pivoted off the blade to **improvised flood-warding rites** (Int 5 + Occult 3 + Int
+  Excellency 5m + 1-stunt = 15d → **5 succ vs diff 5, thr 0**). The wards HOLD the flood's leading edge at the sand-line;
+  **Anuhya's circle survives, time bought** — but bare success = **no anchor lead gained**, and the **wards are eroding.**
+  Two consequences: (a) **Mahru's attention turned toward Ophris** (the god "looked at" the warder — Essence-sight
+  exposure risk, unresolved); (b) **Anuhya saw a "Wood Aspect" ward a god expertly** → scrutiny clock → 2, her interest
+  sharpened. Motes **Periph 25/38**; anima flickers green (reads as Wood, reinforces cover); Init 3; unhurt; WP5; Limit0.
+- **COMBAT:** the wards cut the drowned off from the flood's push; the immediate melee eases (drowned group HL 3/10 still
+  about, but the surge is held at the line). Scene is pivoting from fight → the anchor hunt.
+- **Open decision (URGENT, time bought but short):** **FIND MAHRU'S FOOT/ANCHOR.** Leads to pursue: ask **Anuhya** (god-
+  expert, now reachable); his own **witch-sense** (he just touched the god's Essence — could try to trace it); the
+  **emissary's** recontact ("south reed-channel, speak Mahru's name"); the burned-shrine; the taken dead. Wards won't last.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
