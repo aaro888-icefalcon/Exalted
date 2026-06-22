@@ -65,16 +65,13 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
    Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
-7. **Mahru, the Drowned God of the border marches** — wronged frontier god; named a "rebel god," marked for subjugation —
-   and **struck first.** In this assault he is **BODILESS: he *is* the flood** (Fate: Exceptional No to a manifested
-   commander) — cannot be dueled. The surge drives **past the camp at the Akatha rite-pavilion**, to smash the
-   subjugation rites before they seal. Has taken Ophris's 11 unburied dead down into the water. (AC-Invoked, weight 3.) *(3)*
-8. **Mahru's ruined emissary** (the waterline stranger) — a **drowned god-blood / shrine-priest of Mahru** (Fate:
-   Yes, agent of the marsh-god), uncanny ("Mysteriously · Ruined"): silt-grey, marsh-wet, lungs full of river,
-   wearing the burned-and-rotted vestments of the shrine the legion torched. **Well-disposed** (Fate: Yes) — came to
-   TREAT, not strike; distinguishes Ophris (open hands) from the impious torch-bearers. Ophris deferred the parley.
-   **Recontact:** walk the **south reed-channel ALONE before the rites are sealed** and speak Mahru's name to the
-   water. Warned: after the rites, "only the drowning." **Deeper aims + any sensing of Ophris's true nature: UNEARNED.** *(3)*
+7. **Mahru, the Drowned God of the border marches** — **SUBJUGATED** (Ophris's ultimatum, 6 succ vs Resolve 5). Chose
+   survival over defiant death: knelt, gave penance (floated Ophris's 11 dead back, freed), took the **Pure Way collar
+   under Akatha's instruction** — a bound vassal of the Prasadi pantheon. **Bitter, grieving, resentful** — caged by the
+   faith that burned his shrine; a future thread (the hateful vassal-god). *(3)*
+8. **Mahru's ruined emissary** (the waterline stranger) — a drowned god-blood / shrine-priest of Mahru. Was **well-disposed**
+   and twice offered Ophris its hope; Ophris used the second offer to fit the god's collar. **Goodwill CURDLED to contempt**
+   — *"You always think the collar is the mercy"* — and withdrew into the deep. Now likely a bitter, dangerous loose end. *(2)*
 9. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
@@ -91,22 +88,16 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 
 ## Clocks (offscreen, ticking)
 - **Prasad's Advance [3/6]** — the empire pushes its frontier & Pure Way outward (canon).
-- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [2/?]** — TICKED again: Ophris saved Anuhya's circle with
-  *skilled god-warding* under fire. She's grateful AND newly intrigued — "where does a field-surgeon learn to ward a
-  god?" An Akatha's professional eye is now actively on him (attention, not yet suspicion).
-- **Mahru's attention on Ophris** — drawing a warding line against the flood turned the god's vast, bodiless awareness
-  toward him. Whether Mahru's Essence-sight perceived his Lunar truth through the disguise: **UNEARNED, ominous.**
-- **Parley window with Mahru [OPEN but BLOODYING]** — the emissary offered terms at the south reed-channel before the
-  rites; now Mahru has attacked the camp. Whether the emissary's good faith survives this (or was ever real) is unknown.
-- **The rites vs the assault** — Mahru (as the flood) drives at the **Akatha rite-pavilion** to smash the subjugation
-  rites before they seal. Tonight decides whether the cage closes — and whether Ophris fights to close it.
-- **The taken dead** — the marsh swallowed Ophris's 11 unburied soldiers; **they are already rising among Mahru's drowned**
-  (in Prasadi harness). "I look out for my crew" now points at their corpses.
-- **Mahru's anchor [FOUND]** — traced (Per+Occult, 6 succ/thr3) to the **drowned HEART-STONE of Mahru's burned shrine**,
-  half-sunk in the deep of the **SOUTH REED-CHANNEL** (the exact spot the emissary named for parley). The god's entire
-  flood funnels up from that one stone; **break/uproot it → the flood collapses → Anuhya cages what's left.** Ophris also
-  felt the god's core: **grief**, not rage — Mahru crouched over the last scrap of his murdered home. **The cage and the
-  parley are the same channel.** (Strong roll → Ophris traced him without being read back; **veil held, this time.**)
+- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [3/?]** — TICKED HARD: across one night Ophris warded a god,
+  traced its anchor, and *bargained a rebel god into the fold* — brilliance no field-surgeon should have. Anuhya's last
+  words: *"Who wards like a temple adept and bargains gods like an Akatha karta… Captain Ophris, who ARE you?"* Her
+  attention is now **riveted and openly probing** (appetite, edging toward suspicion). Veil still held — barely.
+- **Mahru's attention on Ophris [latent]** — the god turned his awareness on the warder; whether his Essence-sight ever
+  perceived the Lunar truth through the disguise stays **UNEARNED, ominous** — and now Mahru is a bound vassal who may know.
+- **NIGHT OF MAHRU — RESOLVED:** the assault ended by **oath, not force** — Ophris's ultimatum made the god submit;
+  Anuhya sealed a Pure Way **submission-binding**. Camp held, flood gone, the 11 dead floated back **freed** (penance,
+  owed their rites). The shrine-heart in the south reed-channel was **never broken** — it stays Mahru's last home, now
+  the seat of a bound vassal (**a latent lever** for any future Mahru reckoning). The emissary fled, contemptuous.
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -173,19 +164,18 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Exchange 6 (Scene 3):** Ophris traced the god's Essence (Per 5 + Occult 3 + hot-trail 2 = 10d → **6 succ/thr3**).
   **ANCHOR FOUND:** the drowned shrine-heart in the **south reed-channel** (= the emissary's parley spot). Felt the god's
   **grief**. Veil held (strong roll → not read back). No motes spent.
-- **Exchange 7 (Scene 3 / CLIMAX at the south reed-channel):** Ophris went to the heart-stone and **brought Anuhya +
-  Akhil** (chose the cage over the solo parley; abandoned Anuhya's circle to the eroding wards). At the drowned heart,
-  the **emissary still tries to talk** (Fate: Yes) despite the betrayal of "come alone." **Mahru's terms (via emissary):**
-  he never wanted the war/worship; the legion burned his shrine with his faithful inside; he answered grief-for-grief
-  (the taken for the taken). He will not be **caged** into the Prasadi pantheon — he wants to be **LEFT**: the impiety
-  answered, his dead and his quiet water kept; then the flood recedes. *"Break the stone and you only finish the murder."*
-  **Anuhya counter-presses for the hammer** — *"a rebel god pleading through a corpse's mouth… break the stone"* — and
-  her eyes lingered on Ophris's leaves/his unexplained warding **a beat too long.**
-- **THE CORE CHOICE (under the god-hunter's eye):** **break the heart-stone** (subjugate/finish the grieving god — fulfil
-  the sworn task, save the camp the Pure Way way, hold cover) **vs. parley/appease** (answer the impiety, let Mahru
-  withdraw free — honest & merciful, aligns his secret sympathies — but **mercy to a rebel god = heresy in front of
-  Akatha**, and could crack his cover). Exposure at PEAK: a god's heart + an Akatha both at hand. Wards eroding = time short.
-  Init 3 · Periph 25/38 · WP 5 · Limit 0 · anima settling, mask holding.
+- **Exchange 7–8 (Scene 3 / CLIMAX & RESOLUTION at the south reed-channel):** at the drowned heart, the emissary still
+  tried to talk (Fate: Yes) and laid out Mahru's terms (be LEFT, not caged). Anuhya pressed for the hammer. **Ophris
+  threaded a THIRD path — an ultimatum:** kneel, pay penance for the dead, take Pure Way instruction under Anuhya, **or
+  die** (threaten/persuade, **6 succ vs Resolve 5**). **Mahru chose survival → SUBJUGATED:** the flood receded, the 11
+  dead floated back freed (penance), the god took the collar as a bound Prasadi vassal. **Outcome for Ophris — a
+  masterstroke:** camp saved, rebel god brought into the fold (Akatha's ideal), his dead avenged & returned, **cover &
+  standing hugely bolstered** ("make something of myself" ↑). **Costs:** a bitter bound vassal-god; the emissary's
+  goodwill curdled to contempt; **Anuhya's scrutiny → 3, now openly probing — *"Captain Ophris, who ARE you?"*** Veil held.
+- **SCENE 3 RESOLVING (Turning Point 1 essentially complete — the sanctified expedition's crisis ended early & on Ophris's
+  terms, at the camp, no marches-campaign needed).** Aftermath beat open: the kneeling god, the freed dead, the vanished
+  emissary, Akhil, and **Anuhya's point-blank question hanging in the air.** PENDING bookkeep: **Chaos −1 → 4** (PC firmly
+  in control). Combat ended (flood gone) — clear board. Motes Periph 25/38 · WP 5 · Limit 0 · anima Dim · veil intact.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
