@@ -30,7 +30,7 @@ nature, which is exactly why the lie holds (Per+Awareness vs diff 7 to spot; obv
 **Initiative:** — (base 0 out of combat)
 
 ## Intimacies & Limit
-- **Defining (Tie +):** My family — Akhil (brother), Bhaskar & Sudha (parents).
+- **Defining (Tie +):** My family — Akhil (brother, a genuine **Fire Aspect** DB), Bhaskar & Sudha (parents).
 - **Major (Principle):** "It is what it is — the job is the job."
 - **Major (Principle):** "I look out for my crew." (soldiers + dynast friends)
 - **Major (Principle):** "I will make something of myself."

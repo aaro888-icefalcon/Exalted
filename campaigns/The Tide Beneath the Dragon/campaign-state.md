@@ -43,7 +43,10 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    to manifest on the water. *(3, active)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
-1. **Akhil** — younger brother; knows the secret; closest tie. Present in the Vashri court as Ophris's aide. *(3)*
+1. **Akhil** — younger brother; **genuine Fire Aspect** Dragon-Blood of House Ophris (canonized in play); knows the
+   secret; closest tie. Hot, blunt, fiercely protective; his real Exaltation is part of what makes Ophris's cover hold.
+   Present as Ophris's aide. Stance after the court: the Akatha leash terrifies him; wants the 11 dead given rites; uneasy
+   about the unknown stranger; offered to set the watch on them or brace them himself. *(3)*
 2. **Bhaskar & Sudha** — parents, heads of House Ophris; hid him. *(2)*
 3. **Tanisa Ring-Eater** — shahan-ya, master schemer; runs Ophris as an asset (Mount Namas). *(2)*
 4. **Burano Ravan** — rival of House Burano. Exposed Ophris's false blame-shift in open court. *(2)*
@@ -57,9 +60,9 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 7. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful; now named in court as a "rebel god"
    marked for subjugation. *(2)*
 8. **The stranger at the waterline** — NEW (Altered scene; Focus "New NPC" + Meaning "Inspect · Environment"). Travel-worn,
-   not legion/Akatha/Guild; was expertly reading Mahru's silt & current at the camp's edge, then met Ophris's eye as if
-   waiting for him. **Nature/identity UNEARNED — potential only** (marsh-priest of Mahru? Guild prospector? Silver Pact
-   scout? Ysyri? diviner?). *(2, new)*
+   not legion/Akatha/Guild; expertly reading Mahru's silt & current at the camp's edge, then met Ophris's eye as if
+   waiting for him. **Unknown even to Akhil** (Fate: No), a local officer — i.e. a true out-of-place figure.
+   **Nature/identity UNEARNED — potential only** (marsh-priest of Mahru? Guild prospector? Silver Pact scout? Ysyri? diviner?). *(2, new)*
 9. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
@@ -113,8 +116,12 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   Sea SW). His domain: the field-infirmary. Across the yard: Akatha's white pavilion. His surviving cohort sits grieving;
   **11 wrapped dead** still await rites. Akhil at his shoulder. At the silt-line, a **travel-worn stranger** was expertly
   reading Mahru's water/silt and then met Ophris's eye as if waiting for him. Akhil hasn't seen them yet.
-- **Open decision:** how Ophris engages (approach the stranger / observe / read intentions / call the guard / see to his
-  dead / talk to Akhil / withdraw). His Awareness 4 (Per 5) clocked the figure openly — they're not hiding.
+- **Exchange 1 (Scene 2):** Ophris asked Akhil for his read + whether he knows the stranger. **Akhil doesn't recognize
+  them** (Fate: No). Akhil (Fire Aspect) named the dangers plainly — the Akatha leash ("she'll wait to see a Wood
+  Essence you can't give"), the Burano-blame stain Ravan pinned on him, the 11 dead owed rites — and offered to set the
+  watch on the stranger or go question them himself. Ball back to Ophris.
+- **Open decision:** how Ophris engages (approach the stranger / observe / read intentions / let Akhil handle it / call
+  the guard / see to his dead / withdraw). His Awareness 4 (Per 5) clocked the figure openly — they're not hiding.
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 
 ## Archive pointer
