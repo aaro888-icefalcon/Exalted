@@ -12,8 +12,8 @@
   **exposure, ruin, the Wyld Hunt**. `adversity-calibration.md`.
 - **Resolution:** Fate Chart · **Chaos flavor:** normal · **Discipline:** HARDCORE (Peril Points OFF)
 
-## Turmoil ≡ Chaos Factor: 5
-_(One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
+## Turmoil ≡ Chaos Factor: 4
+_(was 5; Scene 3 closed PC-firmly-in-control → −1. One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
 Adjust via `mythic-gm/scripts/state.py chaos <+1|-1> <CF>`.)_
 
 ## The Lunar (PC)
@@ -38,9 +38,13 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 4. **The Burano rivalry** — outshine Burano Ravan / "make something of myself." Ravan just drew first blood in court. *(2)*
 5. **Mahru's reckoning** — the drowned god who took your soldiers; a Pure Way-marked "rebel god" — now ATTACKING the
    camp to pre-empt his own subjugation. *(3)*
-9. **The leak — who fed the marsh the plan?** NEW (Turning Point: Secret Information Leaked). Mahru's host hit the exact
-   soft seam of the disposition Ophris spoke an hour ago in the writ-tent (Ravan + clerks present). A traitor, a spy, the
-   emissary's recon, or worse — unknown. *(2, new mystery)*
+9. **The leak — who fed the marsh the plan?** (Turning Point 1: Secret Information Leaked). Mahru's host hit the exact
+   soft seam of the disposition Ophris spoke in the writ-tent (Ravan + clerks present). Unknown. *(2, mystery)*
+10. **THE WATCHER — someone is studying Ophris** (NEW PLOTLINE, Turning Point 2: The Observer). At dawn Ophris's
+   ambush-instinct flags a hidden, patient, *knowing* observer who has watched him do impossible things (warding a god,
+   bargaining a deity) and is now **marching south with the column.** Ophris has only deniable unease — **identity &
+   purpose UNEARNED** (the leak-spy? a Burano agent in the new contingent? an Akatha watcher of Anuhya's? a Silver Pact
+   scout / Tanisa's? the emissary?). The campaign's new driving tension — eyes on the hidden Lunar. *(3, new)*
 6. **The sanctified expedition** — ACCEPTED. Ophris will lead a rite-bound expedition to subjugate/destroy Mahru,
    under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
    something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
@@ -67,12 +71,12 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    *"just lucky"* but had nothing to seize; **banked it, patient and permanent**, and means to keep him at her elbow the
    whole expedition: *"We'll have such time to talk, you and I."* **THE DANGER — worst possible chaperone for a Lunar.** *(3)*
 6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
-   Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
-   combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
-7. **Mahru, the Drowned God of the border marches** — **SUBJUGATED** (Ophris's ultimatum, 6 succ vs Resolve 5). Chose
-   survival over defiant death: knelt, gave penance (floated Ophris's 11 dead back, freed), took the **Pure Way collar
-   under Akatha's instruction** — a bound vassal of the Prasadi pantheon. **Bitter, grieving, resentful** — caged by the
-   faith that burned his shrine; a future thread (the hateful vassal-god). *(3)*
+   Icy, by-the-book Air-aspect; Major Principle *"discipline & doctrine win the frontier"*; Resolve 4. Twice impressed by
+   Ophris; confirmed the campaign continues (Mahru was "the gate, not the war"). **STEPS DOWN (AC −1 → weight 1):** she
+   **holds Vashri Crossing** while the column marches south — recedes from the traveling story. *(1)*
+7. **Mahru, the Drowned God of the border marches** — **SUBJUGATED** (ultimatum, 6 succ vs Resolve 5): knelt, gave penance
+   (freed the 11 dead), took the Pure Way collar under Akatha — a bitter bound vassal. **DOWNGRADE (AC −2 → weight 1):**
+   recedes to a quiet, latent thread in his channel (the hateful caged god — a lever for a future reckoning). *(1)*
 8. **Mahru's ruined emissary** (the waterline stranger) — a drowned god-blood / shrine-priest of Mahru. Was **well-disposed**
    and twice offered Ophris its hope; Ophris used the second offer to fit the god's collar. **Goodwill CURDLED to contempt**
    — *"You always think the collar is the mercy"* — and withdrew into the deep. Now likely a bitter, dangerous loose end. *(2)*
@@ -107,11 +111,13 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
 
 ## Adventure Crafter state
-- **Turning Point 1 — "The Marsh Doesn't Wait"** (Scene 3 opened INTERRUPT, test 1d10=4). Plotline (1d25=6) =
-  **The sanctified expedition** (Advancement). Live Plot Points: **MASS BATTLE** (Action 54) + **SECRET INFORMATION
-  LEAKED** (Mystery 57); 3× None. Interpretation: Mahru pre-empts the rites with a night assault on Vashri Crossing,
-  striking the soft seam of the disposition Ophris spoke an hour ago → **the plan leaked.** Invoked: the expedition
-  plotline (already capped 3×), Mahru (→3). · Scenes played: 3. Theme priority: Action, Tension, Mystery, Social, Personal.
+- **TP1 — "The Marsh Doesn't Wait"** (Scene 3, INTERRUPT). Plotline: the sanctified expedition (Advancement). PPs: MASS
+  BATTLE + SECRET INFORMATION LEAKED. → resolved: Mahru's assault, then his subjugation by ultimatum.
+- **TP2 — "Eyes on the Road"** (Scene 4, INTERRUPT, test 1d10=2). **NEW PLOTLINE** (1d25=12). PPs: **THE OBSERVER**
+  (Mys49) + **REINFORCEMENTS** (Soc63) + **CHARACTER DOWNGRADE** (Meta 58 → Mahru 3→1) + **CHARACTER STEPS DOWN**
+  (Meta 52 → Sesrina 2→1); 1× None. Reading: as the relief column (legion + Akatha rite-cadre + a **Burano** contingent)
+  arrives for the deeper march and Mahru/Sesrina recede, a hidden **observer** is now studying Ophris on the road.
+- Scenes played: 4. Theme priority: Action, Tension, Mystery, Social, Personal.
 
 ## Known canon revealed in play (only what the PC has earned)
 - Ophris is a No Moon Lunar hiding as a Wood Aspect of House Ophris; his parents & Akhil know.
@@ -126,7 +132,16 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   and punishes gods). **Prelate Anuhya is a senior Akatha** god-hunter; Ophris will lead Mahru's subjugation under her.
 
 ## Scene
-- **SCENE 3 — "The Marsh Doesn't Wait"** · Vashri Crossing, night camp · Turmoil/Chaos 5 · **OPEN (Turning Point 1).**
+- **SCENE 4 — "Eyes on the Road"** · Vashri Crossing, grey dawn · Turmoil/Chaos 4 · **OPEN (Turning Point 2, NEW
+  plotline).** Ophris ordered rites for the 11 freed dead (Akhil oversaw). Debrief w/ Sesrina: **the campaign CONTINUES**
+  — Mahru was "the gate, not the war"; the column marches south at first light (Anuhya's rite-cadre along) to bring the
+  Silt Marches' other drowned/burning gods to heel & open the road. Ophris's command confirmed/expanded; star high.
+  **INTERRUPT:** dawn relief column arrives (legion + Akatha rite-cadre + a **House Burano** contingent — Ravan's reach
+  on the campaign), and **Ophris's ambush-instinct flags a hidden OBSERVER** — patient, knowing eyes that watched him do
+  the impossible by the channel and are now marching with him. **Deniable unease only; the watcher's identity UNEARNED.**
+  - **Open decision:** what Ophris does — hunt the watcher / meet the reinforcements & the Burano contingent / prep the
+    march / a word with Anuhya or Akhil / rest. Init n/a (out of combat). Periph 25/38 · WP 5 · Limit 0 · anima Dim · veil holding.
+- **SCENE 3 — "The Marsh Doesn't Wait"** · Vashri Crossing, night camp · **CLOSED** (Turning Point 1).
   Ophris was visiting his grieving crew when **Mahru's host stormed the camp's marsh-ward edge** — drowned dead, marsh-
   beasts, reed-painted marsh-folk, the water itself — pre-empting the rites. The assault hits the **soft seam of the
   plan Ophris spoke an hour ago** (→ the plan leaked). **Exchange 1 resolved:** Ophris ordered the **fall-back**
