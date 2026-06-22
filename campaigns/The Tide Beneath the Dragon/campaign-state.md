@@ -97,7 +97,10 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   rites; now Mahru has attacked the camp. Whether the emissary's good faith survives this (or was ever real) is unknown.
 - **The rites vs the assault** — Mahru (as the flood) drives at the **Akatha rite-pavilion** to smash the subjugation
   rites before they seal. Tonight decides whether the cage closes — and whether Ophris fights to close it.
-- **The taken dead** — the marsh swallowed Ophris's 11 unburied soldiers. What Mahru does with the drowned: unknown hook.
+- **The taken dead** — the marsh swallowed Ophris's 11 unburied soldiers; **they are already rising among Mahru's drowned**
+  (in Prasadi harness). "I look out for my crew" now points at their corpses.
+- **Mahru's anchor [find & break]** — per Anuhya, the flood-god has a material seat in the water; severing it lets her
+  cage him. Location/nature UNKNOWN — the night's tactical objective.
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -133,8 +136,16 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   flare; mask = Essential Mirror Nature, doesn't burn). **Disguise ruling:** Essential Mirror Nature + Shifting Penumbra
   Stance let his anima flare as a Wood Aspect's & use ordinary Charms safely; **flagrant Lunar miracles (the Sky-Titan)
   would blow it**, and a god's Essence-sight may pierce the mask if he closes with Mahru.
-- **Open decision (cliff):** Ophris alone & forward, drowned/beasts turning on him, the pavilion upslope about to break —
-  **defend the cage he's sworn to complete, against the wronged god he grieves?** (Engaging foes → Join Battle 7.)
+- **Exchange 2 (Scene 3 / COMBAT JOINED):** Ophris called for Anuhya. **Fate: she CANNOT break Mahru alone** (rites
+  unsealed). Her god-hunter directive: *"You don't fight a flood — you find its FOOT."* **Mahru has a material SEAT/anchor
+  in this water (a shrine-heart, idol, or a drowned vessel he's poured his name into); break it and she can cage the
+  rest — but the pavilion/her circle must be kept clear.** New objective: **find & break Mahru's anchor** (location
+  UNKNOWN — a hunt; the emissary/south reed-channel/the taken dead may relate). **Horror:** the drowned spearhead
+  includes Ophris's own freshly-taken dead in Prasadi harness.
+- **COMBAT — Initiative:** **Ophris 6** (JB 3 succ) acts before **the drowned spearhead 4** (JB 1 succ). His action
+  pending. Foe stats to be finalized on first strike (battle group of the drowned + possible marsh-beast/elite).
+  Anima Dim; flaring reads as Wood Aspect (safe); **NO Sky-Titan** (would blow cover); a god's Essence-sight near Mahru
+  is the live exposure risk.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
