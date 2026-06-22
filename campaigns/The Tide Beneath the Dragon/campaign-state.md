@@ -147,11 +147,18 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   Initiative 18**, unhurt; drowned at **−2, Crashed** (god-driven, no rout). Their counter-claw **missed** (Parry 6 held).
   Grim: the front rank were his own taken dead in Prasadi harness (cut down a soldier he'd once stitched). **Anima still
   DIM — no motes/Charms spent; mask intact.** Reaper daiklave finalized: **Acc +5, Dmg +10L withering, Def +0, Ovw 3.**
-- **COMBAT board (scratch: /tmp/tide_combat.json):** round 2, **Ophris Init 18 / HL 10 full**; **drowned Crashed −2**
-  (but the flood replenishes — killing them is bottomless; Mahru has no fear/morale). Ophris Def 6 (Parry), Soak 4.
-- **Open decision (round 2):** spend his towering Initiative to **finish/rout the drowned** (his men's corpses; clears
-  ground but doesn't win) **vs. break for Mahru's ANCHOR** before Anuhya's circle drowns (≈2 candles left). Anchor
-  location still **UNKNOWN** (needs finding — Per/Int, the emissary, the south reed-channel, or the flood's logic).
+- **Exchange 4 (Scene 3 / COMBAT round 2):** Ophris coiled (Agile Beast Defense 1m) and **Coiled Serpent Strikes** (3m)
+  decisive counter — gorgeous to-hit (13d → 12 succ, five 10s) but the decisive **damage rolled poorly (18d → 3 succ)**:
+  the god-knit drowned barely thinned (**HL 3/10, still up, Crashed**). **Ophris Initiative reset 3.** Lesson landed hard:
+  you can't win by fighting the water. **Honest cost:** the flood poured PAST during the fight → **Anuhya's circle is at
+  its LAST candle**, the rites about to fail. Motes: 4 peripheral spent (**Periph 30/38**), anima Dim, mask intact, unhurt.
+- **Weapon corrected (player, going-forward):** moonsilver Violet Bier daiklave = **MEDIUM** artifact: **Acc +3, Dmg +11L,
+  Def +1, Ovw 4** (the +1 Def is why Parry is 6 with it drawn). Decisive to-hit uses no weapon bonus (engine rule).
+- **COMBAT board (scratch /tmp/tide_combat.json):** **Ophris Init 3 / HL 10 full**; **drowned Init −2, HL 3/10, Crashed**
+  (bottomless — Mahru replenishes). Onslaught wearing Ophris's guard when swarmed.
+- **Open decision (URGENT):** the cage is seconds from breaking. **Find/break Mahru's ANCHOR** (still UNKNOWN — needs a
+  hunt: Per/Int, the emissary, the south reed-channel, the flood's logic) **or save Anuhya's circle** — or **let the
+  rites fail** (the wronged god goes free: secretly half-wanted, but fails his command/Akatha/cover). Init only 3 now.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,

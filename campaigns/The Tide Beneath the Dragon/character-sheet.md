@@ -24,7 +24,7 @@ nature, which is exactly why the lie holds (Per+Awareness vs diff 7 to spot; obv
 **Merits:** Artifact 3 (moonsilver Violet Bier reaper daiklave) · Resources 3 · Command 2 · Influence 2 (within House Ophris)
   · **Mentor — Tanisa Ring-Eater** (free narrative shahan-ya; NOT a mechanical safety-net — she runs you as an asset)
 **Essence** 1 · **Willpower** 5/5 · **Limit** 0/10
-**Motes:** Personal 16/16 · Peripheral 34/38 *(spent 4 on Int Excellency, writ-tent; regen 5/hr at rest)*
+**Motes:** Personal 16/16 · Peripheral 30/38 *(−4 Int Excellency writ-tent; −4 Agile Beast Defense + Coiled Serpent Strikes, combat; regen 5/hr at rest)*
 **Health (10, unarmored — Ox-Body):** -0 [ ] -1 [ ][ ] -2 [ ][ ][ ][ ] -4 [ ][ ] Incap [ ]
 **Static:** Join Battle 7 · Evasion 3 · Parry 5 (6 w/ daiklave) · Resolve 3 · Guile 2 · Soak 4 · Hardness 0
 **Initiative:** — (base 0 out of combat)
@@ -68,8 +68,9 @@ Eye (Per) · Pack Instinct Affirmation (Wits) · Bone-Mending Technique (Int 3 �
   **doomsday titan** — gloriously un-stealthy for a hidden man.
 
 ## Equipment / Artifacts
-- **Moonsilver Violet Bier reaper daiklave** (Artifact 3; attune 5m; banishes Elsewhere in animal forms, reforms for his
-  duelist shape; exact Acc/Dmg/Defense + Evocations finalized when first drawn). · Resources 3 lifestyle · surgeon's kit.
+- **Moonsilver Violet Bier daiklave** (Artifact 3; attune 5m; banishes Elsewhere in animal forms, reforms for his
+  duelist shape). **MEDIUM artifact blade (finalized in play): Accuracy +3, Damage +11L withering, Defense +1,
+  Overwhelming 4** (the +1 Def → Parry 6 when drawn). Evocations TBD. · Resources 3 lifestyle · surgeon's kit.
 
 ## Build ledger
 - **BP 15/15:** attributes +3 dots (9) · abilities MA 4&5 + Awareness 4 (6).
