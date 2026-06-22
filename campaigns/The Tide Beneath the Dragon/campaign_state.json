@@ -1,0 +1,70 @@
+{
+  "turmoil": 4,
+  "scene": 4,
+  "pc": {},
+  "intimacies": [],
+  "combat": {
+    "round": 0,
+    "combatants": {}
+  },
+  "factions": {
+    "Prasad / the Pure Way": {
+      "mag": 4,
+      "reach": 2,
+      "goal": "Expand the empire and purge all Anathema and heresy",
+      "features": [
+        "The Vermilion legions and the Pure Way priesthood"
+      ],
+      "problems": [
+        "Border wars on many fronts (Champoor, Ysyr, the steppes, the Orchid Court)"
+      ]
+    },
+    "House Ophris": {
+      "mag": 2,
+      "reach": 1,
+      "goal": "Rise among Prasad's Dragon-Blooded houses",
+      "features": [
+        "A legion, a field-infirmary, a martial academy"
+      ],
+      "problems": [
+        "A hidden Anathema in its own blood"
+      ]
+    },
+    "The Silver Pact": {
+      "mag": 3,
+      "reach": 1,
+      "goal": "Tear down Dragon-Blooded tyranny; shelter new Lunars",
+      "features": [
+        "Ophris's shahan-ya, watching from beyond Prasad's borders"
+      ],
+      "problems": []
+    },
+    "The Guild": {
+      "mag": 3,
+      "reach": 2,
+      "goal": "Profit from the Dreaming Sea trade routes",
+      "features": [],
+      "problems": []
+    },
+    "Ysyr": {
+      "mag": 3,
+      "reach": 1,
+      "goal": "Extend the sorcerer-princes' reach against Prasad",
+      "features": [],
+      "problems": [
+        "Locked in rivalry with expansionist Prasad"
+      ]
+    },
+    "House Burano": {
+      "mag": 2,
+      "reach": 1,
+      "goal": "Outshine House Ophris and rise within Prasad",
+      "features": [],
+      "problems": [
+        "Rivalry with House Ophris"
+      ]
+    }
+  },
+  "threads": [],
+  "log": []
+}
