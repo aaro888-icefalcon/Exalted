@@ -58,10 +58,14 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 2. **Bhaskar & Sudha** — parents, heads of House Ophris; hid him. *(2)*
 3. **Tanisa Ring-Eater** — shahan-ya, master schemer; runs Ophris as an asset (Mount Namas). *(2)*
 4. **Burano Ravan** — rival of House Burano. Exposed Ophris's false blame-shift in open court. *(2)*
-5. **Prelate Anuhya** — **Clan Akatha** (Exceptional-Yes), and senior: a god-clan prelate-monk schooled in the martial
-   rites that bring rebel gods to heel. White-robed, austere, serene. Now bound to Ophris as overseer of the sanctified
-   expedition; will "spend the road together" teaching him the rites — and expects his Wood element to "show plainly"
-   on the marches. **THE DANGER — the worst possible chaperone for a hidden Lunar.** *(3)*
+5. **Prelate Anuhya** — **senior Clan Akatha** god-hunter prelate-monk. **Appearance (seen up close):** small, spare,
+   age-indeterminate (DB-slow; silt-grey cropped hair, fine-creased eyes); white Pure Way robes; the **triple sigil**
+   (plum-blossom / banner / closed eye = Akatha spirit-blood, Pure Way authority, the watching office); a rope of dark
+   jade **screaming-face prayer-beads** wound on her right hand (her god-strangling tool); flat lightless brown eyes,
+   a scent of altar-smoke & plum-blossom — **God-Blooded uncanniness**; the economy of a body that has bent gods barehanded.
+   **Stillness like deep water / a drawn bow.** Now openly suspicious of "Captain Ophris" (scrutiny 3) — didn't buy his
+   *"just lucky"* but had nothing to seize; **banked it, patient and permanent**, and means to keep him at her elbow the
+   whole expedition: *"We'll have such time to talk, you and I."* **THE DANGER — worst possible chaperone for a Lunar.** *(3)*
 6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
    Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
