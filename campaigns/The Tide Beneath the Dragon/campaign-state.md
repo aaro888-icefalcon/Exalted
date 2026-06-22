@@ -12,12 +12,12 @@
   **exposure, ruin, the Wyld Hunt**. `adversity-calibration.md`.
 - **Resolution:** Fate Chart · **Chaos flavor:** normal · **Discipline:** HARDCORE (Peril Points OFF)
 
-## Turmoil ≡ Chaos Factor: 6
+## Turmoil ≡ Chaos Factor: 5
 _(One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
 Adjust via `mythic-gm/scripts/state.py chaos <+1|-1> <CF>`.)_
 
 ## The Lunar (PC)
-See `character-sheet.md`. Quick line: **Ophris ("Shake")**, No Moon, Essence 1 · motes 16/16 P, 38/38 Periph
+See `character-sheet.md`. Quick line: **Ophris ("Shake")**, No Moon, Essence 1 · motes 16/16 P, **34/38 Periph**
 · WP 5/5 · Limit 0/10 · anima Dim · Join Battle 7 · Defense 5 (Parry 5/Evasion 3) · Resolve 3 · Guile 2 ·
 Soak 4 · Health 10 levels (-0/-1×2/-2×4/-4×2/Incap), all undamaged. Mask: Wood Aspect of House Ophris.
 Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast Form). Tell: leaves in his hair.
@@ -41,11 +41,10 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
    something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
    to manifest on the water. *(3, active)*
-7. **Burano's legal raid on the command** — Ravan petitioned to **SPLIT** the expedition (grounds: Ophris's court-proven
-   recon failure → Burano should co-warrant). But **Prefect Sesrina opposes it emphatically** (Fate: Exceptional No) —
-   she reads it as undisciplined opportunism / encroachment on Akatha's arrangement, and is "inclined to deny him,"
-   but dislikes being "managed" and has put the final word in OPHRIS's hands: give her the reason to deny — *with
-   discipline.* Outcome pends on how Ophris conducts himself this beat. *(2)*
+7. **The Burano rivalry / Ravan's grudge** — Ravan's legal raid to split the command was **DEFEATED**: Ophris ignored
+   the bait, presented a clean operational plan (Int+War, 4 succ), and Sesrina struck the split — *"That is a commander."*
+   **Sole command affirmed**, court competence-stain partly mended, Ravan bested twice in one night and withdrawn with a
+   face-saving nicety + a deepening grudge. The rivalry is now personal and patient. *(2)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
 1. **Akhil** — younger brother; **genuine Fire Aspect** Dragon-Blood of House Ophris (canonized in play); knows the
@@ -118,9 +117,10 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   (low-suspicion; locked the expedition). Anuhya revealed as **senior Clan Akatha** (Exceptional Yes) — a god-hunter,
   the worst chaperone for a hidden Lunar; she expects his "Wood element to show plainly" on the marches.
   Close: **PC not in control → Chaos +1 → Turmoil/Chaos 6.**
-- **SCENE 2 — "What Walks Out of the Water"** · Vashri Crossing camp, dusk · Turmoil/Chaos 6 · **ALTERED** (scene test
-  1d10=1, within CF & odd). Expected = a quiet aftermath to take stock; ALTERED by a **New NPC inspecting the
-  environment** (Focus 13 + Meaning "Inspect · Environment").
+- **SCENE 2 — "What Walks Out of the Water"** · Vashri Crossing camp, dusk · **CLOSED** (opened ALTERED, scene test
+  1d10=1). Delivered: first contact with Mahru's emissary (parley window banked) + defeat of Burano's command-split.
+  Close: PC in control → **Chaos −1 → 5.** Net for Ophris: **sole command secured, a secret door to the god open,
+  competence-stain easing** — at the cost of an Akatha leash still looming and a god that has now seen his face.
 - **Last beat / recap:** Ophris steps out into the garrison-town (granary-turned-fort at the Silt Marches ford, Dreaming
   Sea SW). His domain: the field-infirmary. Across the yard: Akatha's white pavilion. His surviving cohort sits grieving;
   **11 wrapped dead** still await rites. Akhil at his shoulder. At the silt-line, a **travel-worn stranger** was expertly
@@ -131,13 +131,15 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   **Mahru's drowned, ruined emissary**, **well-disposed**, offering parley before the war — naming the impious
   shrine-burning, marking Ophris as different for coming hands-open. **Doubles → Random Event (Remote·Divide·Legal):**
   a runner brings word that **House Burano has moved at the writ-tent to SPLIT the expedition's command.**
-- **Exchange 3 (Scene 2):** Ophris deferred the parley ("later") — emissary gave recontact terms (south reed-channel,
-  alone, before the rites) + a warning, and vanished into the marsh. Ophris went to the writ-tent. **Prefect Sesrina
-  opposes the split (Exceptional No)** but won't be "managed": she's put the deciding word in Ophris's hands — "give me
-  the reason to deny him, and mind HOW you do it." Ravan present, smiling, dangerous; Akhil at Ophris's side, running hot.
-- **Open decision:** HOW Ophris contests the split before the prefect (argue the law/competence, defer to her judgment,
-  magnanimous compromise that cements sole command, confront Ravan, invoke Akatha's appointment, rein or use Akhil…).
-  Stakes: sole command + mending the court's competence-dent vs. annoying his one backer by overreaching/squabbling.
+- **Exchange 3 (Scene 2):** Ophris deferred the parley → recontact at the south reed-channel before the rites; emissary
+  withdrew. **Exchange 4 (Scene 2, CLOSE):** at the writ-tent Ophris ignored Ravan, presented a clean operational plan
+  (Int 5 + War 3 + Int Excellency 4m + 1-stunt = 14d → **4 succ vs diff 3**), invited Burano's input. Sesrina struck the
+  split — *"That is a commander"* — **sole command affirmed**, competence-stain easing; Ravan withdrew bested with a
+  banked grudge. **SCENE 2 CLOSED. PC in control → Chaos −1 → 5.**
+- **Open / next-scene seeds (player's pick frames Scene 3 — will get a scene test):** (a) give the **11 dead their
+  rites**; (b) take the **parley window** — south reed-channel, alone, before Akatha seals the rites (risky, off-book,
+  a god who may sense what he is); (c) **expedition prep** / coordinate with Anuhya's rites (close Akatha scrutiny);
+  (d) a beat with **Akhil**; (e) rest/recover motes.
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 
