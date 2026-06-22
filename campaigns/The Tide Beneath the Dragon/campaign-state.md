@@ -41,6 +41,9 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
    something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
    to manifest on the water. *(3, active)*
+7. **Burano's legal raid on the command** — NEW (Random Event: Remote · Divide · Legal). While Ophris was at the water,
+   Ravan moved at the prefect's writ-tent to have the expedition's authority **SPLIT** with House Burano. A jurisdictional
+   knife into the command Ophris just won; "it'll travel," as Akhil foretold. Exact terms/standing of the claim: unresolved. *(2, new)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
 1. **Akhil** — younger brother; **genuine Fire Aspect** Dragon-Blood of House Ophris (canonized in play); knows the
@@ -59,10 +62,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
 7. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful; now named in court as a "rebel god"
    marked for subjugation. *(2)*
-8. **The stranger at the waterline** — NEW (Altered scene; Focus "New NPC" + Meaning "Inspect · Environment"). Travel-worn,
-   not legion/Akatha/Guild; expertly reading Mahru's silt & current at the camp's edge, then met Ophris's eye as if
-   waiting for him. **Unknown even to Akhil** (Fate: No), a local officer — i.e. a true out-of-place figure.
-   **Nature/identity UNEARNED — potential only** (marsh-priest of Mahru? Guild prospector? Silver Pact scout? Ysyri? diviner?). *(2, new)*
+8. **Mahru's ruined emissary** (the waterline stranger) — a **drowned god-blood / shrine-priest of Mahru** (Fate:
+   Yes, agent of the marsh-god), uncanny ("Mysteriously · Ruined"): silt-grey, marsh-wet, lungs full of river,
+   wearing the burned-and-rotted vestments of the shrine the legion torched. **Well-disposed** (Fate: Yes) — came to
+   TREAT, not strike; distinguishes Ophris (open hands) from the impious torch-bearers; offers "words" before the war.
+   **Deeper aims + whether they can sense Ophris's true nature: UNEARNED, potential only.** *(3)*
 9. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
@@ -116,12 +120,15 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   Sea SW). His domain: the field-infirmary. Across the yard: Akatha's white pavilion. His surviving cohort sits grieving;
   **11 wrapped dead** still await rites. Akhil at his shoulder. At the silt-line, a **travel-worn stranger** was expertly
   reading Mahru's water/silt and then met Ophris's eye as if waiting for him. Akhil hasn't seen them yet.
-- **Exchange 1 (Scene 2):** Ophris asked Akhil for his read + whether he knows the stranger. **Akhil doesn't recognize
-  them** (Fate: No). Akhil (Fire Aspect) named the dangers plainly — the Akatha leash ("she'll wait to see a Wood
-  Essence you can't give"), the Burano-blame stain Ravan pinned on him, the 11 dead owed rites — and offered to set the
-  watch on the stranger or go question them himself. Ball back to Ophris.
-- **Open decision:** how Ophris engages (approach the stranger / observe / read intentions / let Akhil handle it / call
-  the guard / see to his dead / withdraw). His Awareness 4 (Per 5) clocked the figure openly — they're not hiding.
+- **Exchange 1 (Scene 2):** Akhil's read (Fire Aspect): the Akatha leash is the knife, Ravan's framing will travel, the
+  11 dead are owed rites; he doesn't recognize the stranger (Fate: No) and offered to watch/brace them.
+- **Exchange 2 (Scene 2):** Ophris went down with open hands and greeted the stranger. Reveals (rolled): the figure is
+  **Mahru's drowned, ruined emissary**, **well-disposed**, offering parley before the war — naming the impious
+  shrine-burning, marking Ophris as different for coming hands-open. **Doubles → Random Event (Remote·Divide·Legal):**
+  a runner brings word that **House Burano has moved at the writ-tent to SPLIT the expedition's command.**
+- **Open decision (the pinch):** the god's emissary in front of Ophris, offering once-in-a-war words; the Burano legal
+  raid on his command erupting behind him at the fires. Which way does he turn — hold the parley, or rush the politics?
+  (Akhil is up the slope, hasn't joined the waterline.)
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 
 ## Archive pointer
