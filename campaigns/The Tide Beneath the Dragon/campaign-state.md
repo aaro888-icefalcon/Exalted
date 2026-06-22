@@ -102,8 +102,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   rites before they seal. Tonight decides whether the cage closes — and whether Ophris fights to close it.
 - **The taken dead** — the marsh swallowed Ophris's 11 unburied soldiers; **they are already rising among Mahru's drowned**
   (in Prasadi harness). "I look out for my crew" now points at their corpses.
-- **Mahru's anchor [find & break]** — per Anuhya, the flood-god has a material seat in the water; severing it lets her
-  cage him. Location/nature UNKNOWN — the night's tactical objective.
+- **Mahru's anchor [FOUND]** — traced (Per+Occult, 6 succ/thr3) to the **drowned HEART-STONE of Mahru's burned shrine**,
+  half-sunk in the deep of the **SOUTH REED-CHANNEL** (the exact spot the emissary named for parley). The god's entire
+  flood funnels up from that one stone; **break/uproot it → the flood collapses → Anuhya cages what's left.** Ophris also
+  felt the god's core: **grief**, not rage — Mahru crouched over the last scrap of his murdered home. **The cage and the
+  parley are the same channel.** (Strong roll → Ophris traced him without being read back; **veil held, this time.**)
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -167,9 +170,13 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   sharpened. Motes **Periph 25/38**; anima flickers green (reads as Wood, reinforces cover); Init 3; unhurt; WP5; Limit0.
 - **COMBAT:** the wards cut the drowned off from the flood's push; the immediate melee eases (drowned group HL 3/10 still
   about, but the surge is held at the line). Scene is pivoting from fight → the anchor hunt.
-- **Open decision (URGENT, time bought but short):** **FIND MAHRU'S FOOT/ANCHOR.** Leads to pursue: ask **Anuhya** (god-
-  expert, now reachable); his own **witch-sense** (he just touched the god's Essence — could try to trace it); the
-  **emissary's** recontact ("south reed-channel, speak Mahru's name"); the burned-shrine; the taken dead. Wards won't last.
+- **Exchange 6 (Scene 3):** Ophris traced the god's Essence (Per 5 + Occult 3 + hot-trail 2 = 10d → **6 succ/thr3**).
+  **ANCHOR FOUND:** the drowned shrine-heart in the **south reed-channel** (= the emissary's parley spot). Felt the god's
+  **grief**. Veil held (strong roll → not read back). No motes spent.
+- **Open decision (the heart of it):** he knows the foot. Now — **go to the south reed-channel** (alone, as the emissary
+  bade? with force? tell Anuhya the location & bring the cage?) and **break the heart-stone (subjugate the grieving god;
+  fulfil the sworn task / Akatha / cover) OR parley (the emissary offered terms; a path that doesn't enslave Mahru?).**
+  The cage and the open hand are the same drowned stone. Wards eroding; time short. Init 3, Periph 25/38, anima settling.
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
