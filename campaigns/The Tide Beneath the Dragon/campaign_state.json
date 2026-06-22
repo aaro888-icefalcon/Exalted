@@ -54,6 +54,15 @@
       "problems": [
         "Locked in rivalry with expansionist Prasad"
       ]
+    },
+    "House Burano": {
+      "mag": 2,
+      "reach": 1,
+      "goal": "Outshine House Ophris and rise within Prasad",
+      "features": [],
+      "problems": [
+        "Rivalry with House Ophris"
+      ]
     }
   },
   "threads": [],
