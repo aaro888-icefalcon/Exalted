@@ -142,10 +142,16 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   rest — but the pavilion/her circle must be kept clear.** New objective: **find & break Mahru's anchor** (location
   UNKNOWN — a hunt; the emissary/south reed-channel/the taken dead may relate). **Horror:** the drowned spearhead
   includes Ophris's own freshly-taken dead in Prasadi harness.
-- **COMBAT — Initiative:** **Ophris 6** (JB 3 succ) acts before **the drowned spearhead 4** (JB 1 succ). His action
-  pending. Foe stats to be finalized on first strike (battle group of the drowned + possible marsh-beast/elite).
-  Anima Dim; flaring reads as Wood Aspect (safe); **NO Sky-Titan** (would blow cover); a god's Essence-sight near Mahru
-  is the live exposure risk.
+- **Exchange 3 (Scene 3 / COMBAT round 1):** Ophris withered the drowned battle group (Violet Bier reaper daiklave;
+  Dex5+MA5+Acc5+spec+stunt = 18d → 6 succ/thr3; raw15−soak5 → 6 Init dmg). **Crashed them** (+5 Break) → **Ophris
+  Initiative 18**, unhurt; drowned at **−2, Crashed** (god-driven, no rout). Their counter-claw **missed** (Parry 6 held).
+  Grim: the front rank were his own taken dead in Prasadi harness (cut down a soldier he'd once stitched). **Anima still
+  DIM — no motes/Charms spent; mask intact.** Reaper daiklave finalized: **Acc +5, Dmg +10L withering, Def +0, Ovw 3.**
+- **COMBAT board (scratch: /tmp/tide_combat.json):** round 2, **Ophris Init 18 / HL 10 full**; **drowned Crashed −2**
+  (but the flood replenishes — killing them is bottomless; Mahru has no fear/morale). Ophris Def 6 (Parry), Soak 4.
+- **Open decision (round 2):** spend his towering Initiative to **finish/rout the drowned** (his men's corpses; clears
+  ground but doesn't win) **vs. break for Mahru's ANCHOR** before Anuhya's circle drowns (≈2 candles left). Anchor
+  location still **UNKNOWN** (needs finding — Per/Int, the emissary, the south reed-channel, or the flood's logic).
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
