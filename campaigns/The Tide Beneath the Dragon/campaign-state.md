@@ -36,7 +36,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 2. **Tanisa's design** — steer Prasad against the Realm/Lookshy as her agent, while Leopard schemes to burn it. *(2)*
 3. **Family & House Ophris** — protect the kin who share the secret's risk. *(2)*
 4. **The Burano rivalry** — outshine Burano Ravan / "make something of myself." Ravan just drew first blood in court. *(2)*
-5. **Mahru's reckoning** — the drowned god who took your soldiers; now a Pure Way-marked "rebel god." *(2)*
+5. **Mahru's reckoning** — the drowned god who took your soldiers; a Pure Way-marked "rebel god" — now ATTACKING the
+   camp to pre-empt his own subjugation. *(3)*
+9. **The leak — who fed the marsh the plan?** NEW (Turning Point: Secret Information Leaked). Mahru's host hit the exact
+   soft seam of the disposition Ophris spoke an hour ago in the writ-tent (Ravan + clerks present). A traitor, a spy, the
+   emissary's recon, or worse — unknown. *(2, new mystery)*
 6. **The sanctified expedition** — ACCEPTED. Ophris will lead a rite-bound expedition to subjugate/destroy Mahru,
    under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
    something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
@@ -61,8 +65,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
    Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
-7. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful; now named in court as a "rebel god"
-   marked for subjugation. *(2)*
+7. **Mahru, the Drowned God of the border marches** — wronged frontier god; named a "rebel god," marked for subjugation —
+   and **struck first:** a night assault on Vashri Crossing to break the rites before they seal. (AC-Invoked → weight 3.) *(3)*
 8. **Mahru's ruined emissary** (the waterline stranger) — a **drowned god-blood / shrine-priest of Mahru** (Fate:
    Yes, agent of the marsh-god), uncanny ("Mysteriously · Ruined"): silt-grey, marsh-wet, lungs full of river,
    wearing the burned-and-rotted vestments of the shrine the legion torched. **Well-disposed** (Fate: Yes) — came to
@@ -87,15 +91,20 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Prasad's Advance [3/6]** — the empire pushes its frontier & Pure Way outward (canon).
 - **Pure Way scrutiny of House Ophris's "new Wood Aspect" [1/?]** — TICKED: Ophris invited Prelate Anuhya's
   counsel in open court; she answered by fixing her attention on him personally and proposing to keep him "under her eye."
-- **Parley window with Mahru [OPEN — closes when the rites are sealed]** — Ophris may meet the emissary at the south
-  reed-channel, alone, before Akatha completes the subjugation rites. After that: war only.
+- **Parley window with Mahru [OPEN but BLOODYING]** — the emissary offered terms at the south reed-channel before the
+  rites; now Mahru has attacked the camp. Whether the emissary's good faith survives this (or was ever real) is unknown.
+- **The rites vs the assault** — Mahru struck to break the subjugation rites before Akatha can seal them. Tonight decides
+  whether the camp holds, and at what cost.
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
 
 ## Adventure Crafter state
-- Active Turning Point: none (Scene 2 came up Altered, not Interrupt → no Turning Point drawn) · Scenes played: 2.
-- Theme priority: Action, Tension, Mystery, Social, Personal.
+- **Turning Point 1 — "The Marsh Doesn't Wait"** (Scene 3 opened INTERRUPT, test 1d10=4). Plotline (1d25=6) =
+  **The sanctified expedition** (Advancement). Live Plot Points: **MASS BATTLE** (Action 54) + **SECRET INFORMATION
+  LEAKED** (Mystery 57); 3× None. Interpretation: Mahru pre-empts the rites with a night assault on Vashri Crossing,
+  striking the soft seam of the disposition Ophris spoke an hour ago → **the plan leaked.** Invoked: the expedition
+  plotline (already capped 3×), Mahru (→3). · Scenes played: 3. Theme priority: Action, Tension, Mystery, Social, Personal.
 
 ## Known canon revealed in play (only what the PC has earned)
 - Ophris is a No Moon Lunar hiding as a Wood Aspect of House Ophris; his parents & Akhil know.
@@ -110,6 +119,13 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   and punishes gods). **Prelate Anuhya is a senior Akatha** god-hunter; Ophris will lead Mahru's subjugation under her.
 
 ## Scene
+- **SCENE 3 — "The Marsh Doesn't Wait"** · Vashri Crossing, night camp · Turmoil/Chaos 5 · **OPEN (Turning Point 1).**
+  Ophris was visiting his grieving crew when **Mahru's host stormed the camp's marsh-ward edge** — drowned dead, marsh-
+  beasts, reed-painted marsh-folk, the water itself — pre-empting the rites. The assault hits the **soft seam of the
+  plan Ophris spoke an hour ago** (→ the plan leaked). His depleted cohort + the 11 dead are in its path; Akhil's
+  daiklave drawn (Fire-light); the men look to Ophris. **Tension:** the Charms that could turn the tide also risk
+  flaring his secret in front of his own troops / nearby DBs. **No dice yet — at the brink of battle; awaiting his action.**
+  (If he fights → Join Battle 7, Initiative system; may also engage War/mass-combat for the broader fight.)
 - **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
   point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
   Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
