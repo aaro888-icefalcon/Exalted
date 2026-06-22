@@ -12,7 +12,7 @@
   **exposure, ruin, the Wyld Hunt**. `adversity-calibration.md`.
 - **Resolution:** Fate Chart · **Chaos flavor:** normal · **Discipline:** HARDCORE (Peril Points OFF)
 
-## Turmoil ≡ Chaos Factor: 5
+## Turmoil ≡ Chaos Factor: 6
 _(One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
 Adjust via `mythic-gm/scripts/state.py chaos <+1|-1> <CF>`.)_
 
@@ -56,7 +56,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
 7. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful; now named in court as a "rebel god"
    marked for subjugation. *(2)*
-8. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
+8. **The stranger at the waterline** — NEW (Altered scene; Focus "New NPC" + Meaning "Inspect · Environment"). Travel-worn,
+   not legion/Akatha/Guild; was expertly reading Mahru's silt & current at the camp's edge, then met Ophris's eye as if
+   waiting for him. **Nature/identity UNEARNED — potential only** (marsh-priest of Mahru? Guild prospector? Silver Pact
+   scout? Ysyri? diviner?). *(2, new)*
+9. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
 
@@ -79,7 +83,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
 
 ## Adventure Crafter state
-- Active Turning Point: — (first scene untested) · Theme priority: Action, Tension, Mystery, Social, Personal.
+- Active Turning Point: none (Scene 2 came up Altered, not Interrupt → no Turning Point drawn) · Scenes played: 2.
+- Theme priority: Action, Tension, Mystery, Social, Personal.
 
 ## Known canon revealed in play (only what the PC has earned)
 - Ophris is a No Moon Lunar hiding as a Wood Aspect of House Ophris; his parents & Akhil know.
@@ -94,24 +99,23 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   and punishes gods). **Prelate Anuhya is a senior Akatha** god-hunter; Ophris will lead Mahru's subjugation under her.
 
 ## Scene
-- **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · Turmoil/Chaos 5 · ONGOING (untested first scene).
-- **Last beat / recap:** A contentious joint court over the costly Silt Marches skirmish (11 Ophris dead to the god Mahru,
-  after the legion fired his shrine). Burano Ravan opened by mocking Ophris's competence and brushing at "the Dragons'
-  favor." Ophris answered with a factual account — true on the doctrine (a major god on its own demesne is a known
-  hazard) but he wrongly pinned the recon failure on Burano. **Rolls:** his instill landed on Prefect Sesrina by a hair
-  (4 vs Resolve 4) → she concedes the doctrine point. But ground-truth (rolled): the recon was Ophris's OWN charge, and
-  **Ravan exposed the false blame** in open court. Ophris deferred to **Prelate Anuhya** for "the best approach" — she
-  declined to shelter him (Fate: NO) and instead declared Mahru a *rebel god* to be subjugated by sanctified expedition,
-  **led by Ophris under her personal oversight** ("unless you have some reason you should not"), her gaze on his leaves.
-- **Exchange 2:** Ophris paid pious homage and ACCEPTED the charge (smart, low-suspicion; defused the needle, locked the
-  expedition). Fate Q resolved Anuhya as **Clan Akatha — Exceptional Yes**: a senior god-clan prelate-monk, a god-hunter.
-  She's now his expedition overseer ("we'll spend the road together") and pointedly expects his Wood element to "show
-  plainly." Court is breaking; Ravan denied his kill but the false-blame stain holds; Akhil at his side.
-- **Open decision (cliff):** the court disperses around Ophris — a last move before the scene closes (Akhil? Ravan?
-  Anuhya? withdraw to prepare?).
-- **Adversity counter:** 1 (pressed: standing bruised, scrutiny clock ticked, now leashed to an Akatha god-hunter) · **Self-audit drift:** 0
-- **NOTE:** Turmoil/Chaos tick deferred to scene END. Leaning **+1 → 6** (scene moved against his core interest: he's
-  bound to the most dangerous overseer possible). Confirm at close.
+- **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · CLOSED. Outcome: Ophris landed his doctrine
+  point on Prefect Sesrina (4 vs Resolve 4) but his false Burano-blame was exposed by Ravan (ground-truth: the recon was
+  Ophris's OWN charge). He then deferred to **Prelate Anuhya**, who declined to shelter him, named Mahru a *rebel god*,
+  and bound Ophris to lead the sanctified subjugation **under her oversight**. Ophris paid pious homage and ACCEPTED
+  (low-suspicion; locked the expedition). Anuhya revealed as **senior Clan Akatha** (Exceptional Yes) — a god-hunter,
+  the worst chaperone for a hidden Lunar; she expects his "Wood element to show plainly" on the marches.
+  Close: **PC not in control → Chaos +1 → Turmoil/Chaos 6.**
+- **SCENE 2 — "What Walks Out of the Water"** · Vashri Crossing camp, dusk · Turmoil/Chaos 6 · **ALTERED** (scene test
+  1d10=1, within CF & odd). Expected = a quiet aftermath to take stock; ALTERED by a **New NPC inspecting the
+  environment** (Focus 13 + Meaning "Inspect · Environment").
+- **Last beat / recap:** Ophris steps out into the garrison-town (granary-turned-fort at the Silt Marches ford, Dreaming
+  Sea SW). His domain: the field-infirmary. Across the yard: Akatha's white pavilion. His surviving cohort sits grieving;
+  **11 wrapped dead** still await rites. Akhil at his shoulder. At the silt-line, a **travel-worn stranger** was expertly
+  reading Mahru's water/silt and then met Ophris's eye as if waiting for him. Akhil hasn't seen them yet.
+- **Open decision:** how Ophris engages (approach the stranger / observe / read intentions / call the guard / see to his
+  dead / talk to Akhil / withdraw). His Awareness 4 (Per 5) clocked the figure openly — they're not hiding.
+- **Adversity counter:** 1 · **Self-audit drift:** 0
 
 ## Archive pointer
 - Resolved Threads / dead Characters / spent clocks → `archive.md`
