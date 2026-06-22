@@ -41,9 +41,11 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
    under **Akatha** Prelate Anuhya's direct oversight; marches once the rites are prepared. His chance to "make
    something of myself" — chained to an Akatha god-hunter's lamp held to the secret, with his fake element expected
    to manifest on the water. *(3, active)*
-7. **Burano's legal raid on the command** — NEW (Random Event: Remote · Divide · Legal). While Ophris was at the water,
-   Ravan moved at the prefect's writ-tent to have the expedition's authority **SPLIT** with House Burano. A jurisdictional
-   knife into the command Ophris just won; "it'll travel," as Akhil foretold. Exact terms/standing of the claim: unresolved. *(2, new)*
+7. **Burano's legal raid on the command** — Ravan petitioned to **SPLIT** the expedition (grounds: Ophris's court-proven
+   recon failure → Burano should co-warrant). But **Prefect Sesrina opposes it emphatically** (Fate: Exceptional No) —
+   she reads it as undisciplined opportunism / encroachment on Akatha's arrangement, and is "inclined to deny him,"
+   but dislikes being "managed" and has put the final word in OPHRIS's hands: give her the reason to deny — *with
+   discipline.* Outcome pends on how Ophris conducts himself this beat. *(2)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
 1. **Akhil** — younger brother; **genuine Fire Aspect** Dragon-Blood of House Ophris (canonized in play); knows the
@@ -65,8 +67,9 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 8. **Mahru's ruined emissary** (the waterline stranger) — a **drowned god-blood / shrine-priest of Mahru** (Fate:
    Yes, agent of the marsh-god), uncanny ("Mysteriously · Ruined"): silt-grey, marsh-wet, lungs full of river,
    wearing the burned-and-rotted vestments of the shrine the legion torched. **Well-disposed** (Fate: Yes) — came to
-   TREAT, not strike; distinguishes Ophris (open hands) from the impious torch-bearers; offers "words" before the war.
-   **Deeper aims + whether they can sense Ophris's true nature: UNEARNED, potential only.** *(3)*
+   TREAT, not strike; distinguishes Ophris (open hands) from the impious torch-bearers. Ophris deferred the parley.
+   **Recontact:** walk the **south reed-channel ALONE before the rites are sealed** and speak Mahru's name to the
+   water. Warned: after the rites, "only the drowning." **Deeper aims + any sensing of Ophris's true nature: UNEARNED.** *(3)*
 9. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
@@ -85,6 +88,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 - **Prasad's Advance [3/6]** — the empire pushes its frontier & Pure Way outward (canon).
 - **Pure Way scrutiny of House Ophris's "new Wood Aspect" [1/?]** — TICKED: Ophris invited Prelate Anuhya's
   counsel in open court; she answered by fixing her attention on him personally and proposing to keep him "under her eye."
+- **Parley window with Mahru [OPEN — closes when the rites are sealed]** — Ophris may meet the emissary at the south
+  reed-channel, alone, before Akatha completes the subjugation rites. After that: war only.
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -126,9 +131,14 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   **Mahru's drowned, ruined emissary**, **well-disposed**, offering parley before the war — naming the impious
   shrine-burning, marking Ophris as different for coming hands-open. **Doubles → Random Event (Remote·Divide·Legal):**
   a runner brings word that **House Burano has moved at the writ-tent to SPLIT the expedition's command.**
-- **Open decision (the pinch):** the god's emissary in front of Ophris, offering once-in-a-war words; the Burano legal
-  raid on his command erupting behind him at the fires. Which way does he turn — hold the parley, or rush the politics?
-  (Akhil is up the slope, hasn't joined the waterline.)
+- **Exchange 3 (Scene 2):** Ophris deferred the parley ("later") — emissary gave recontact terms (south reed-channel,
+  alone, before the rites) + a warning, and vanished into the marsh. Ophris went to the writ-tent. **Prefect Sesrina
+  opposes the split (Exceptional No)** but won't be "managed": she's put the deciding word in Ophris's hands — "give me
+  the reason to deny him, and mind HOW you do it." Ravan present, smiling, dangerous; Akhil at Ophris's side, running hot.
+- **Open decision:** HOW Ophris contests the split before the prefect (argue the law/competence, defer to her judgment,
+  magnanimous compromise that cements sole command, confront Ravan, invoke Akatha's appointment, rein or use Akhil…).
+  Stakes: sole command + mending the court's competence-dent vs. annoying his one backer by overreaching/squabbling.
+- **Adversity counter:** 1 · **Self-audit drift:** 0
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 
 ## Archive pointer
