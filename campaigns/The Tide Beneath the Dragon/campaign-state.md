@@ -16,8 +16,22 @@
 _(was 5; Scene 3 closed PC-firmly-in-control → −1. One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
 Adjust via `mythic-gm/scripts/state.py chaos <+1|-1> <CF>`.)_
 
+## ⏸ SESSION 1 — CLOSED ("The Night of Mahru") · resume pointer
+> **Status: SAVED. Session 1 complete; advancement processed.** Pick up at **Scene 4 — "Eyes on the Road,"** grey dawn at
+> Vashri Crossing, Turmoil/Chaos **4**. (On resume: restate the Creed, recap the 2–3 beats below, then "What do you do?")
+> **Recap:** A hidden Lunar (Ophris, posing as a Wood Aspect of House Ophris in Pure-Way Prasad) was bound by senior
+> **Akatha** god-hunter **Prelate Anuhya** to subjugate the rebel river-god **Mahru**. He bested Burano Ravan twice (court
+> + a command-split raid), then — when Mahru flooded the camp to break the binding rites — saved his crew, witch-warded
+> the flood, traced the god to the **drowned heart of his burned shrine**, and at the south reed-channel forced an
+> **ultimatum** that made the grieving god kneel and take the Pure Way collar (penance: the 11 dead freed). Triumph, with
+> a price: a bitter bound god, a betrayed emissary, and **Anuhya's scrutiny riveted on him (3/?)**. Dawn: the column
+> marches south for the marches' other gods; reinforcements (incl. **Burano**) arrive; a **hidden watcher's eyes** settle
+> on Ophris (new plotline).
+> **Advancement banked:** **+5 xp · +4 Lunar xp** (unspent — see `character-sheet.md` Experience ledger & spend menu).
+> **On next rest:** motes & WP refresh to full before the march.
+
 ## The Lunar (PC)
-See `character-sheet.md`. Quick line: **Ophris ("Shake")**, No Moon, Essence 1 · motes 16/16 P, **34/38 Periph**
+See `character-sheet.md`. Quick line: **Ophris ("Shake")**, No Moon, Essence 1 · motes 16/16 P, **25/38 Periph (refresh on rest)**
 · WP 5/5 · Limit 0/10 · anima Dim · Join Battle 7 · Defense 5 (Parry 5/Evasion 3) · Resolve 3 · Guile 2 ·
 Soak 4 · Health 10 levels (-0/-1×2/-2×4/-4×2/Incap), all undamaged. Mask: Wood Aspect of House Ophris.
 Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast Form). Tell: leaves in his hair.

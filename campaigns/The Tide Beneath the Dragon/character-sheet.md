@@ -75,3 +75,10 @@ Eye (Per) · Pack Instinct Affirmation (Wits) · Bone-Mending Technique (Int 3 �
 ## Build ledger
 - **BP 15/15:** attributes +3 dots (9) · abilities MA 4&5 + Awareness 4 (6).
 - Merits 10/10 · Charms 15/15 · Abilities 28 free dots + 3 BP-bought · WP 5 (unraised).
+
+## Experience ledger
+- **Total earned:** 5 xp · 4 Lunar xp. **Total spent:** 0. **Available: 5 xp · 4 Lunar xp.** *(unspent — banked at S1 close)*
+- **Essence 1** (rises on cumulative *xp earned*: E2 at 50 xp — Lunar xp doesn't count).
+- **Session 1 award:** +5 xp · +4 Lunar xp (Expression: crew / the grieving god Mahru / the secret under Anuhya · Role: solved the flood through witch-knowledge & bound a god).
+- *Lunar xp may buy Attributes, Abilities, Specialties, Merits, Willpower, MA Charms, Evocations — **not** Lunar Charms (those need plain xp).*
+- **Spend menu (when ready):** new Ability @1 = 3 (e.g. **Presence 1** for the threaten/command game) · Specialty = 3 (e.g. **Occult: Spirits/Warding** — earned tonight) · Occult 3→4 = 6 · War 3→4 = 6 · Awareness 4→5 = 8 · Willpower = 8 · or **bank toward a Lunar Charm (10 xp)**.
