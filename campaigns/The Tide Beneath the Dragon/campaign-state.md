@@ -35,16 +35,24 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 1. **Keep the moon hidden** — sustain the Wood-Aspect lie under the Pure Way's scrutiny. *(3)*
 2. **Tanisa's design** — steer Prasad against the Realm/Lookshy as her agent, while Leopard schemes to burn it. *(2)*
 3. **Family & House Ophris** — protect the kin who share the secret's risk. *(2)*
-4. **The Burano rivalry** — outshine Burano Ravan / "make something of myself." *(1)*
-5. **Mahru's reckoning** — the drowned god who took your soldiers. *(1)*
+4. **The Burano rivalry** — outshine Burano Ravan / "make something of myself." Ravan just drew first blood in court. *(2)*
+5. **Mahru's reckoning** — the drowned god who took your soldiers; now a Pure Way-marked "rebel god." *(2)*
+6. **The sanctified expedition** — Prelate Anuhya proposes Ophris lead a rite-bound expedition to subjugate Mahru,
+   under her direct oversight. A chance to "make something of myself" — and a Pure Way lamp held to the secret. *(2, emerging)*
 
 ## Characters List (NPCs & forces in play; the PC is NOT listed)
-1. **Akhil** — younger brother; knows the secret; closest tie. *(3)*
+1. **Akhil** — younger brother; knows the secret; closest tie. Present in the Vashri court as Ophris's aide. *(3)*
 2. **Bhaskar & Sudha** — parents, heads of House Ophris; hid him. *(2)*
 3. **Tanisa Ring-Eater** — shahan-ya, master schemer; runs Ophris as an asset (Mount Namas). *(2)*
-4. **Burano Ravan** — rival of House Burano. *(2, provisional)*
-5. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful. *(1, provisional)*
-6. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
+4. **Burano Ravan** — rival of House Burano. Exposed Ophris's false blame-shift in open court. *(2)*
+5. **Prelate Anuhya** — Pure Way prelate ("the Spotless Word"), white-robed; austere, theocratic. Has fixed her
+   attention on "the new Wood Aspect" and means to put him under her eye on a sanctified expedition. **THE DANGER.** *(3)*
+6. **Prefect Sesrina of the Cinquefoil Banner** — Prince of the Earth (DB, Ess 3), frontier prefect at Vashri Crossing.
+   Icy, by-the-book Air-aspect. Holds Major Principle *"discipline & doctrine win the frontier."* **Resolve 4**, Guile ~3;
+   combat (if ever): Evasion/Parry 6, soak 10, Hardness 6, HL 8, Join Battle 6. Accepted Ophris's doctrine frame (barely). *(2)*
+7. **Mahru, the Drowned God of the border marches** — wronged frontier god, vengeful; now named in court as a "rebel god"
+   marked for subjugation. *(2)*
+8. **Seven Obsidian Leopard** — Tanisa's necromancer-partner; wants Prasad destroyed. *(1, offstage)*
 
 ## Adventure Features List (Prepared-Adventure mode only) — n/a
 
@@ -58,7 +66,8 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
 
 ## Clocks (offscreen, ticking)
 - **Prasad's Advance [3/6]** — the empire pushes its frontier & Pure Way outward (canon).
-- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [0/?]** — opens when play begins.
+- **Pure Way scrutiny of House Ophris's "new Wood Aspect" [1/?]** — TICKED: Ophris invited Prelate Anuhya's
+  counsel in open court; she answered by fixing her attention on him personally and proposing to keep him "under her eye."
 
 ## Overlays (Mythic; optional)
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF (player-invoked only).
@@ -72,12 +81,23 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   Anathema; Houses Ophris and Burano are among its conqueror-houses. *(Public Prasadi knowledge.)*
 - His shahan-ya **Tanisa Ring-Eater** placed him inside Prasad to steer it against the Realm. *(Her deeper aims & the
   Leopard schism: only partly earned — treat as potential until confirmed in play.)*
+- **Earned in Scene 1:** the failed reconnaissance of the Silt Marches was House Ophris's OWN charge, not Burano's —
+  Ophris's blame-shift was false and Ravan proved it publicly. The Pure Way (via Prelate Anuhya) has formally named
+  **Mahru a "rebel god"** to be subjugated by sanctified expedition. Anuhya's attention is now personally on Ophris.
 
 ## Scene
-- **Last beat / recap:** CHARACTER CREATION COMPLETE (Ophris finalized). No scene has been played yet — the parked
-  Session-Zero opener was framed before the real build existed and is VOID; reframe the true first scene (untested)
-  on resume, grounded in the finished character (the deception, the Burano rivalry, Mahru's grief, Tanisa's leash).
-- **Adversity counter:** 0 · **Self-audit drift counter:** 0
+- **SCENE 1 — "Two Houses, One Frontier"** · Vashri Crossing war-court · Turmoil/Chaos 5 · ONGOING (untested first scene).
+- **Last beat / recap:** A contentious joint court over the costly Silt Marches skirmish (11 Ophris dead to the god Mahru,
+  after the legion fired his shrine). Burano Ravan opened by mocking Ophris's competence and brushing at "the Dragons'
+  favor." Ophris answered with a factual account — true on the doctrine (a major god on its own demesne is a known
+  hazard) but he wrongly pinned the recon failure on Burano. **Rolls:** his instill landed on Prefect Sesrina by a hair
+  (4 vs Resolve 4) → she concedes the doctrine point. But ground-truth (rolled): the recon was Ophris's OWN charge, and
+  **Ravan exposed the false blame** in open court. Ophris deferred to **Prelate Anuhya** for "the best approach" — she
+  declined to shelter him (Fate: NO) and instead declared Mahru a *rebel god* to be subjugated by sanctified expedition,
+  **led by Ophris under her personal oversight** ("unless you have some reason you should not"), her gaze on his leaves.
+- **Open decision (cliff):** Ophris must respond to the prelate's trap-proposal before the whole court. Akhil at his side.
+- **Adversity counter:** 1 (pressed: standing bruised, scrutiny clock ticked, a Pure Way leash offered) · **Self-audit drift:** 0
+- **NOTE:** Turmoil/Chaos tick deferred to scene END (Mythic adjusts per scene; this court is still in progress).
 
 ## Archive pointer
 - Resolved Threads / dead Characters / spent clocks → `archive.md`
