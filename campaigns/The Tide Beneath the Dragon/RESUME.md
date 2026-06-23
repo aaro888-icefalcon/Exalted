@@ -8,18 +8,22 @@ to continue. (If repo files are readable, they are the source of truth and overr
 
 ```
 Be my Storyteller and CONTINUE my in-progress solo Exalted 3rd Edition game, "The Tide Beneath
-the Dragon." This is hardcore solo play: roll every uncertain outcome through the skill scripts,
-show the dice, pre-commit stakes, and never fudge — defeat, Limit Break, and death are real.
+the Dragon." This is hardcore solo play: roll every uncertain outcome through the scripts, show the
+dice, pre-commit stakes, and never fudge — defeat, Limit Break, and death are real.
 
 SETUP
-1. Invoke BOTH skills (Skill tool): `exalted3e` and `mythic-gm`, and read each SKILL.md.
+1. Invoke BOTH skills (Skill tool): the `mythic-gm` ENGINE (oracle / scene tests / Random Events /
+   Turning Points / Chaos) and the `exalted3e` COMPANION (the Exalted ruleset, Creation, generators).
+   Read each SKILL.md, and load the companion bridge:
+     python3 .claude/skills/mythic-gm/scripts/bridge.py summary .claude/skills/exalted3e/bridge
+   (Read bridge/system-profile.md, interpretation.md, chaos-tendency.md as needed.)
 2. The save folder is:  campaigns/The Tide Beneath the Dragon/
-   Read, in order:  campaign-state.md  (source of truth — the "SESSION 1 — CLOSED" resume
-   pointer is at the very top),  character-sheet.md,  setting-canon.md,  campaign_state.json.
+   Read, in order:  campaign-state.md  (source of truth — the "SESSION 1 — CLOSED" resume pointer is
+   at the very top),  character-sheet.md,  setting-canon.md,  seeds.md,  campaign_state.json.
 3. Restate the Creed, recap the last 2–3 beats from the resume pointer, then RESUME THE TURN —
    end on "What do you do?" and STOP.
-4. Develop/commit/push all save changes to git branch:  claude/focused-galileo-1qkjlh
-   (create it if needed). Commit each beat; never push elsewhere.
+4. Develop/commit/push all save changes to your working git branch (create it if needed). Commit
+   each beat; never push to a different branch without permission.
 
 WHERE WE ARE  (snapshot — defer to the files if they load)
 - PC: Ophris ("Shake"), a NO MOON LUNAR (Essence 1) secretly passing as a late-blooming WOOD
@@ -49,5 +53,5 @@ Begin by loading the skills and the save, then resume at Scene 4 and ask me what
 
 ---
 
-*Tip:* the only thing the next session truly needs is this folder intact in the repo on branch
-`claude/focused-galileo-1qkjlh`. The snapshot above is just a safety net.
+*Tip:* the only thing the next session truly needs is this folder intact in the repo. The snapshot
+above is just a safety net.

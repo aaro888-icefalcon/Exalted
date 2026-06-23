@@ -1,8 +1,10 @@
 # Setting Canon — Creation (Age of Sorrows) · this campaign: **Prasad**
 
-> Mythic's world ground-truth. Canon (the `exalted3e/setting/` cards + `vault/`) overrides invention;
-> consult before inventing. Reveal a **Truth** only when its in-fiction trigger fires. When all sources
-> are silent, a Mythic Fate Question decides and the answer is written here to stay consistent.
+> This campaign's local truth, layering **on top of** the shared Creation baseline in
+> `exalted3e/bridge/setting-canon.md` (which indexes the `exalted3e/setting/` cards + `vault/`).
+> Canon overrides invention; consult before inventing. Reveal a **Truth** only when its in-fiction
+> trigger fires. When all sources are silent, a Fate Question decides and the answer is written here
+> to stay consistent.
 
 ## Where the broader canon lives
 - Spine & gazetteer: `exalted3e/setting/00_index.md` · Cosmology: `01_cosmology.md` · Otherworlds: `03_otherworlds.md`

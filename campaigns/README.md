@@ -16,13 +16,17 @@ Then tell Claude: **"Be my Storyteller — let's play Exalted."** Claude runs Se
 campaign folder.
 
 ## What's in a campaign folder
+The shared ruleset & Creation baseline live in the companion bridge
+(`exalted3e/bridge/system-profile.md`, `setting-canon.md`); a campaign folder holds the **live
+play state**:
+
 | File | Role | Owner |
 |---|---|---|
-| `campaign-state.md` | the single source of truth, overwritten every scene | both skills |
-| `system-profile.md` | the Exalted ruleset bridge for the Mythic engine | pre-filled |
-| `setting-canon.md`  | pointer to Creation canon + this game's local truths | both skills |
+| `campaign-state.md` | the single source of truth, overwritten every scene | engine + companion |
+| `setting-canon.md`  | this game's local truths (layers on `bridge/setting-canon.md`) | companion |
+| `seeds.md`          | the 30–40 seed deck, refreshed each bookkeeping | engine + companion |
 | `character-sheet.md`| the Lunar PC | `exalted3e` |
-| `archive.md`        | resolved threads / dead NPCs / session log | both skills |
+| `archive.md`        | resolved threads / dead NPCs / session log | engine + companion |
 | `campaign_state.json` | live mechanical scratch (fights, faction seasons) — auto-created | `exalted3e` scripts |
 
 ## Resume a campaign

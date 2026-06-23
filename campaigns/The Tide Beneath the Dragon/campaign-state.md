@@ -1,20 +1,26 @@
 # Campaign State — The Tide Beneath the Dragon
 
-> The single source of truth. Both skills read this every turn and overwrite it at scene end.
-> Narrative truth here; live mechanical scratch (fights/seasons) in `campaign_state.json`.
+> The single source of truth. Overwrite it at scene end. Narrative truth here; live mechanical
+> scratch (fights/seasons) in `campaign_state.json`.
+> **Architecture:** the `mythic-gm` engine is the oracle/scene/Chaos/pacing layer; the `exalted3e`
+> companion (its `bridge/`) supplies the ruleset, Creation, and the generators.
 
 ## Frame
-- **System:** Exalted 3rd Edition — owned by the `exalted3e` skill → `system-profile.md`
-- **Oracle / pacing engine:** `mythic-gm` (Fate Chart, scene tests, random events, Chaos)
 - **Adventure Source mode:** **Adventure Crafter** (Turning Points + themes braid the Threads)
-- **Setting / canon:** Creation (Age of Sorrows) → `setting-canon.md`. **Home turf: Prasad** (SW, Dreaming Sea).
+- **System / resolution:** Exalted 3rd Edition → `exalted3e/bridge/system-profile.md`
+- **Setting / canon:** Creation (Age of Sorrows) → `exalted3e/bridge/setting-canon.md` + this folder's `setting-canon.md`. **Home turf: Prasad** (SW, Dreaming Sea).
+- **GM lens / agenda:** `exalted3e/bridge/interpretation.md` — Creation-as-Threat (primary) / Creation-as-Cost (secondary)
 - **Genre & stakes:** mythic-tragic intrigue under a theocratic-military state — maximal honest consequence is
-  **exposure, ruin, the Wyld Hunt**. `adversity-calibration.md`.
-- **Resolution:** Fate Chart · **Chaos flavor:** normal · **Discipline:** HARDCORE (Peril Points OFF)
+  **exposure, ruin, the Wyld Hunt**. (`exalted3e/assets/discipline/adversity-calibration.md`)
+- **Resolution:** Fate Chart · **Chaos flavor:** standard · **Discipline:** HARDCORE (Peril Points OFF)
 
 ## Turmoil ≡ Chaos Factor: 4
 _(was 5; Scene 3 closed PC-firmly-in-control → −1. One shared 1–9 value. −1 if the PC was mostly in control of the last scene; +1 if chaotic.
 Adjust via `mythic-gm/scripts/state.py chaos <+1|-1> <CF>`.)_
+
+## CURRENT ADVENTURE: The Silt Marches Subjugation
+- **Adventure status:** active (Session 1 closed; resume at Scene 4 — "Eyes on the Road")
+- **Theme priority (this adventure):** Action, Tension, Mystery, Social, Personal _(rolled at the adventure's start; held for its duration; new adventures roll from `exalted3e/bridge/theme-weights.md`)_
 
 ## ⏸ SESSION 1 — CLOSED ("The Night of Mahru") · resume pointer
 > **Status: SAVED. Session 1 complete; advancement processed.** Pick up at **Scene 4 — "Eyes on the Road,"** grey dawn at
@@ -239,7 +245,6 @@ Spirit shape: Sky-Titan⊗Otter (Legendary; titan transform via Towering Beast F
   rites**; (b) take the **parley window** — south reed-channel, alone, before Akatha seals the rites (risky, off-book,
   a god who may sense what he is); (c) **expedition prep** / coordinate with Anuhya's rites (close Akatha scrutiny);
   (d) a beat with **Akhil**; (e) rest/recover motes.
-- **Adversity counter:** 1 · **Self-audit drift:** 0
 - **Adversity counter:** 1 · **Self-audit drift:** 0
 
 ## Archive pointer
