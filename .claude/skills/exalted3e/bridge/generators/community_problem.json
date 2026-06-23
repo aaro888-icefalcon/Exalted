@@ -1,0 +1,69 @@
+{
+ "id": "exalted.community_problem",
+ "title": "Communities — The Problem (the cry for a god; your hook)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/communities.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A monster / behemoth / strange-beast preys on them"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Bandits, a warlord, or a Realm tax-collector bleeds them dry"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Famine, blight, or a poisoned well"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A shadowland is spreading at the edge of the fields; the dead walk"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "The local god has gone mad, silent, or greedy and demands too much"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A raksha / Fair Folk steals dreams, children, or names"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A feud or murder splits the village against itself"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The Wyld is creeping closer; crops and folk are changing"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A plague, or a curse laid by a slighted spirit"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "An Immaculate monk has come hunting Anathema — and someone here qualifies"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A debt to the Guild / a Great House that will take people as payment"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A buried First Age thing under the town is waking (cross-ref Ruins)"
+  }
+ ]
+}

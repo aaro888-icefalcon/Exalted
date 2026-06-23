@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_defenses",
+ "title": "Ruins — Inhabitants: Defenses",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "numbers"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "a chokepoint they hold"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "a turned automaton / ward"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "a hostage or relic they'll threaten"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "an alarm to summon worse"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "a Charm-user who hits above their weight"
+  }
+ ]
+}

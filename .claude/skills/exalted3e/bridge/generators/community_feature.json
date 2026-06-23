@@ -1,0 +1,59 @@
+{
+ "id": "exalted.community_feature",
+ "title": "Communities — The Feature (worth protecting)",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/generators/communities.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "a hearthstone / demesne nearby"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "a relic or shrine of real power"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "a master craft (a smith, a weaver of note)"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "a strategic pass / ford / harbor"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "unusual loyalty / a militia that fights above its weight"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "a secret heir or hidden Exalt among them"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "a stockpile (grain, jade, medicine)"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "a bound or friendly local god"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "knowledge (a map, a rite, a name)"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "simply that they're good people worth saving"
+  }
+ ]
+}

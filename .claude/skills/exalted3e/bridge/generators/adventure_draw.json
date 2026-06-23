@@ -1,0 +1,69 @@
+{
+ "id": "exalted.adventure_draw",
+ "title": "Adventures — Draw (why the PC engages)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/adventures.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Reward: an artifact, a hearthstone, a demesne"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A person in danger the PC cares about (or could)"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A debt owed to the PC comes due"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A mystery / a Truth half-glimpsed"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Tribe / cult / charge the PC protects is threatened"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A rival the PC wants to thwart is involved"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A chance to grow a Project (build, rally, claim)"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Knowledge: a First Age secret, a lost name"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Reputation / a chance to be seen as a god"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "An oath or Intimacy demands action"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A faction offers patronage for one job"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Simple justice: a wrong the PC can't walk past"
+  }
+ ]
+}

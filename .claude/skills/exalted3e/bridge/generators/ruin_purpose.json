@@ -1,0 +1,109 @@
+{
+ "id": "exalted.ruin_purpose",
+ "title": "Ruins — Original Purpose",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "Solar manse-palace, anima-lit — command-phrase still half-works; hearthstone socket"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Shogunate war-fortress — jade armory, drilled automata-barracks"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "First Age factory-cathedral (theurgic manufactory) — a production line that still runs on bound elementals"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Twilight's sorcerous workshop — half-finished working, ingredient stores, a spellbook"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Solar tomb / jade pleasure-dome — grave-goods, a sleeping artifact, an oathbound guardian"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Essence / weather engine — controls rain or wind for a satrapy, if reactivated"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Deliberative archive — First Age lore, maps to other ruins, a name long buried"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Daiklave armory — racks of artifact weapons, all keyed to dead bloodlines"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Lunar Wyld-redoubt — shapeshifting-cauldron, a tattoo-rite, beast-pens"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Ghost necropolis / mausoleum-city — a Well of soul-steel, a nephwrack's court"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Fae freehold half-pulled into Creation — a stolen treasure, a freehold-key, time runs wrong"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Sealed demon-prison — a bound Second Circle, a brass seal, forbidden pacts"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A neglected god's sanctum — the god still home (sleeping/mad), a relic of its portfolio"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Behemoth lair (occupied or vacated) — a hoard, a shed scale worth a fortune, eggs"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Realm-purged 'Anathema' sanctuary — a martyr's cache, Immaculate seals over a vault"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Drowned Western manse / coral-grown reef — pearls of Essence, a sea-god's tribute, air-pockets"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Threshold satrap's vault / counting-house — tribute-gold, ledgers (= blackmail), a Guild factor's cache"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Mountain observatory / star-shrine — a Sidereal astrology table, a prophecy, an orrery"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Hearthstone-quarry / geomantic node — raw demesne, uncut hearthstones, a feral elemental"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A ruin-in-a-ruin: two of the above, layered — roll twice; later builders dug into the older site"
+  }
+ ]
+}

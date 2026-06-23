@@ -1,0 +1,99 @@
+{
+ "id": "exalted.ruin_hazard",
+ "title": "Ruins — Hazard (why it's still full of loot)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 10,
+   "value": "Essence-radiation / leaking demesne — lingering causes mutation; motes drain or surge wildly"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Wyld taint pooled in the lower halls — shapes shift, mutations, the map won't hold still"
+  },
+  {
+   "min": 16,
+   "max": 25,
+   "value": "Awakened First Age automata still on patrol — obey dead orders; attack intruders lacking the sigil"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Creeping shadowland necrosis — the dead walk; living Essence rots; a soul-gate yawns"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A bound demon, seal failing — whispers bargains; one cracked sigil from freedom"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Failing geomantic ward — floods, fire, or collapse cycles on a timer"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Immaculate seals over the core — break them and the Wyld Hunt WILL hear of it"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Resident behemoth (sleeping or hunting) — too big to fight; route around it or wake it"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Temporal eddy (First Age stasis) — rooms frozen mid-disaster; time-debt on exit"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Toxic alchemical miasma — poison gas, corroded floors, no open flame"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Rival claimants already inside (see Inhabitants) — a tomb-robbing crew got here first"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Structural ruin — every loud noise risks a cave-in; sound matters"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Cursed grave-ward — takers sicken / are marked / are followed home"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Hungry ghosts bound to the place — feed on the living's breath; placated only by rite"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A weather-engine stuck 'on' — perpetual storm, blizzard, or killing heat inside"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Feral elementals (the engine's old labor) — territorial, treat the PC as a thief"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Drowned / flooded levels — the prize is underwater; tides, pressure, things below"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "The site itself is hostile (living manse) — doors close, halls rearrange, it wants to keep you"
+  }
+ ]
+}

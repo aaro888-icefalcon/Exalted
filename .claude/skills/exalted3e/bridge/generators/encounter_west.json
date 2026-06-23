@@ -1,0 +1,49 @@
+{
+ "id": "exalted.encounter_west",
+ "title": "Wilderness Encounter — West",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Lintha pirates"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a sea-behemoth"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a storm-mother's wrath"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a drowned manse"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "island Wyld zone"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "a tya warband"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "a god of a reef"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a ghost-ship"
+  }
+ ]
+}

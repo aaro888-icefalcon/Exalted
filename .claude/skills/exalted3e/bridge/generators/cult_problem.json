@@ -1,0 +1,49 @@
+{
+ "id": "exalted.cult_problem",
+ "title": "Cults — Inherent Problem (the hook; take 1-2)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "a schism brewing over doctrine / succession"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "the patron is waning, mad, or absent (miracles failing)"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a charismatic heretic splitting the flock"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "the Realm / Immaculate Order marks it for suppression"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "it demands a sacrifice the faithful are starting to question"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "a rival cult contests the same patron / territory"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "corrupt clergy embezzle tithes / abuse the flock"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "the patron's true nature is a secret that would shatter it (a 'god' that's a demon, a hero that's a ghost)"
+  }
+ ]
+}

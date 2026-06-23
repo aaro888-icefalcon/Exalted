@@ -1,0 +1,69 @@
+{
+ "id": "exalted.court_mood",
+ "title": "Courts — Mood",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "paranoid"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "complacent"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "grieving a recent death"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "celebrating (a wedding, a victory)"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "starving for coin"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "braced for war"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "festering with a buried scandal"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "desperate for a savior"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "smug and cruel"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "fracturing openly"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "in mourning for a vanished patron"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "watching the PC the moment they enter"
+  }
+ ]
+}

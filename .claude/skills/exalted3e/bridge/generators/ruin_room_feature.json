@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_room_feature",
+ "title": "Ruins — Keyed Room: Feature",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "a working device"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "a vantage / shortcut"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "a clue to the Reward's lock"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "a defensible spot"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "raw Essence to harvest"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "a captive / witness who knows things"
+  }
+ ]
+}

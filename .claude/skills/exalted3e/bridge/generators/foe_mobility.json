@@ -1,0 +1,49 @@
+{
+ "id": "exalted.foe_mobility",
+ "title": "Foes — Mobility",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/foes.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "flight"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "burrowing (strikes from below)"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "teleport / blink (Essence)"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "wall- / ceiling-crawl"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "aquatic (drags foes under)"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "supernatural Speed Bonus (always acts first to reposition)"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "phasing through matter (immaterial passage)"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "mounted / on a warbeast"
+  }
+ ]
+}

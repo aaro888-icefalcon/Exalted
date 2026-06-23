@@ -1,0 +1,24 @@
+{
+ "id": "exalted.ruin_why_here",
+ "title": "Ruins — Inhabitants: Why Here",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 34,
+   "value": "trapped / can't leave"
+  },
+  {
+   "min": 35,
+   "max": 67,
+   "value": "came for the same prize you did"
+  },
+  {
+   "min": 68,
+   "max": 100,
+   "value": "guarding it for someone"
+  }
+ ]
+}

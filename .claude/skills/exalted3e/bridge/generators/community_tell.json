@@ -1,0 +1,49 @@
+{
+ "id": "exalted.community_tell",
+ "title": "Communities — Supernatural Tell / Omen",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/communities.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "livestock born malformed"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a shrine over-laden or stripped bare"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "ghost-lights / cold spots after dark"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "the river / sky the wrong color"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a circle of dead grass, perfectly round"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "charms and wards on every door"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "a song or rite everyone knows but won't explain"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a stranger already here, watching (another Exalt? a spy?)"
+  }
+ ]
+}

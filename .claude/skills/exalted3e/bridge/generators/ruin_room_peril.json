@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_room_peril",
+ "title": "Ruins — Keyed Room: Peril",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "physical (trap, fall, fire)"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "occupant (an inhabitant lairs here)"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "magical (curse, hostile Charm-effect)"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "the Hazard concentrated"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "false floor over something worse"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "none — let them breathe"
+  }
+ ]
+}

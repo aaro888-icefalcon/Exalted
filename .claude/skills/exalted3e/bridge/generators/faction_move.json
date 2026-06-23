@@ -1,0 +1,59 @@
+{
+ "id": "exalted.faction_move",
+ "title": "Faction Move",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "raids a rival"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "fortifies"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "recruits / expands a Feature"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "a Problem erupts publicly"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "sues for alliance"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "plants a spy (Interest)"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "launches a Project"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "internal feud"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "hunts the PC"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "a leader falls"
+  }
+ ]
+}

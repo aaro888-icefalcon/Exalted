@@ -1,0 +1,39 @@
+{
+ "id": "exalted.court_agenda",
+ "title": "Courts — Actor Agenda",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "hold what they have"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "take a rival's power source"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "install / depose the seat-holder"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "cover a crime"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "court the PC as a tool"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "burn it all down rather than lose"
+  }
+ ]
+}

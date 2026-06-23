@@ -1,0 +1,49 @@
+{
+ "id": "exalted.community_leadership",
+ "title": "Communities — Leadership",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/communities.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "a council of elders"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a hereditary headman / matriarch"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a Realm-appointed reeve (resented)"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "the local god speaks through a priest"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a Guild factor who really runs things"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "a war-leader (recent threat)"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "no one — leaderless, frightened"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a charismatic newcomer (savior or con)"
+  }
+ ]
+}

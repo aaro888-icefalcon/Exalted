@@ -1,0 +1,39 @@
+{
+ "id": "exalted.cult_growth",
+ "title": "Cults — How It Grows (and its counter)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "by miracle (a public wonder wins converts) — counter: expose the miracle"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "by charity (feeds the poor; loyalty follows bread) — counter: starve the charity"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "by the sword (convert or be cast out) — counter: break the war-band"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "by patronage (a lord adopts it; top-down) — counter: turn the lord"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "by infiltration (quiet, cell by cell, families first) — counter: out the cells"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "by crisis (every disaster swells the ranks) — counter: solve the crises first"
+  }
+ ]
+}

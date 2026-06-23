@@ -1,0 +1,59 @@
+{
+ "id": "exalted.cult_patron",
+ "title": "Cults — Patron (worshipped power)",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "A god of a place (river, mountain, ford, harvest) — local, transactional, jealous of tribute"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "A god of a craft or trade — guild-like; bound to a profession"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "An animal totem (steppe / forest clan) — shamanic; omens, beast-spirits, taboos"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "The Immaculate Dragons (an Order cell) — doctrine, monks, Anathema-hunting"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "An Exalt as living god (the PC, or a rival) — new, fervent, fragile; built on a person"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "A dead hero / ancestor cult — graves, oaths, a ghost that may answer"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "A demon (Yozi-touched, secret) — hidden, transgressive, hunted if found"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "A Deathlord / the Neverborn (a death-cult) — shadowland-fed, nihilist, recruits the grieving"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "A behemoth or Wyld-thing held as divine — terrible, propitiated, not loved"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "A syncretic mix (roll twice; reconcile or schism) — tension built in"
+  }
+ ]
+}

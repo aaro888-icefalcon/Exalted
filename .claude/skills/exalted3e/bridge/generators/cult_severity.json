@@ -1,0 +1,40 @@
+{
+ "id": "exalted.cult_severity",
+ "title": "Cults — Holy-Law Severity (power gained / problem incurred)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Loose / folk-faith — broad reach, easy growth; but shallow loyalty, scatters under pressure"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Customary — steady tithes, local trust; but complacent, co-opted by the powerful"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Devout — reliable miracles, a militia of believers; but intolerant, makes enemies"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Strict — fierce obedience, real supernatural aid; but schisms over doctrine, heretics breed"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Zealous — fanatic devotees, willing martyrs; but violent, the Realm/neighbors move against it"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Absolute / sacrificial — the patron answers directly; but demands blood, rots from within"
+  }
+ ],
+ "note": "Higher severity raises threat-Magnitude but lowers Cohesion."
+}

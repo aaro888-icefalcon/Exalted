@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_internal_problem",
+ "title": "Ruins — Inhabitants: Internal Problem (a hook)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "a traitor"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "starving / short on Essence"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "a feud splitting them"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "a wounded leader"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "a captive they mistreat"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "a secret that ruins them if told"
+  }
+ ]
+}

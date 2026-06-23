@@ -1,0 +1,69 @@
+{
+ "id": "exalted.adventure_threat",
+ "title": "Adventures — Threat (what pushes back)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/adventures.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A rival Exalt (Dragon-Blood, Solar, Lunar, Abyssal)"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The Wyld Hunt closing in"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A behemoth / strange-beast (Foes)"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A bound or angry god / elemental"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A Deathlord's agent + the restless dead"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Raksha / Fair Folk and their unreality"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A Great House / the Realm garrison"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The Guild and its money and muscle"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A sorcerer with bound demons"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A failing First Age Hazard (radiation, stasis, miasma)"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A ticking clock (ritual, tribute deadline, spreading rot)"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "The PC's own past / a secret that could surface"
+  }
+ ]
+}

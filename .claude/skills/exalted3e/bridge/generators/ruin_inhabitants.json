@@ -1,0 +1,69 @@
+{
+ "id": "exalted.ruin_inhabitants",
+ "title": "Ruins — Who's Here",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "a newly-Exalted youth + a green cult"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "First Age war-automata (no master)"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "a raksha court slumming in the ruin"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "hungry ghosts under a nephwrack"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "the resident god + sanctum-keepers"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "a beastfolk warband"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a Wyld Hunt expedition (Dragon-Blooded + mortals)"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a Guild salvage crew with hired muscle"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "a sorcerer with bound demons"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "a Lunar/Solar rival + retinue"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "refugees squatting, unaware what they sleep atop"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "nobody living — only the Hazard"
+  }
+ ]
+}

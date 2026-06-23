@@ -1,6 +1,11 @@
 # Event & encounter tables (Creation)
 
-**Random-event focus (1d100)** — or use `oracle.py event`:
+The **Random-Event focus** is owned by the engine (`mythic-gm/scripts/oracle.py event` / `event-focus`,
+same buckets as below, flavored for Creation). The faction/encounter/omen tables here are the source
+for `bridge/generators/` (built by `scripts/build_bridge_generators.py`; rolled via
+`mythic-gm/scripts/dice.py table <…>`).
+
+**Random-event focus (1d100)** — *(engine reference; use `oracle.py event-focus`)*:
 1–7 Remote event · 8–28 NPC acts · 29–35 New NPC · 36–45 Toward a Thread · 46–52 Away from a Thread · 53–55 Close a Thread · 56–67 PC negative · 68–75 PC positive · 76–83 Ally negative · 84–92 Ally positive · 93–100 Context shift.
 
 **Faction move (1d10)** (pair with `ex_faction.py`): 1 raids a rival · 2 fortifies · 3 recruits/expands a Feature · 4 a Problem erupts publicly · 5 sues for alliance · 6 plants a spy (Interest) · 7 launches a Project · 8 internal feud · 9 hunts the PC · 10 a leader falls.

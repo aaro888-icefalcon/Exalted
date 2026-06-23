@@ -1,0 +1,39 @@
+{
+ "id": "exalted.omen",
+ "title": "Omen / Tell of the Supernatural",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "animals flee a place"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "a shrine bleeds"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "the dead walk at dusk"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "a child speaks prophecy"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "jade hums near a wall"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "anima-light seen on the horizon"
+  }
+ ]
+}

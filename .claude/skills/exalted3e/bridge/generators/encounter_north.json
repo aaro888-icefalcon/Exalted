@@ -1,0 +1,49 @@
+{
+ "id": "exalted.encounter_north",
+ "title": "Wilderness Encounter — North",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "ice-walker raiders"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a frost-behemoth"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a Bull's-empire patrol"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a Wyld blizzard"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a hungry-ghost band"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "stranded refugees"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "a Lunar's beastfolk scouts"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a buried First Age cache"
+  }
+ ]
+}

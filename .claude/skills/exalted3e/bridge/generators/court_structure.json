@@ -1,0 +1,39 @@
+{
+ "id": "exalted.court_structure",
+ "title": "Courts — Power Structure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Autocratic — one Dragon-Blood / satrap / god rules; the rest petition"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Oligarchic — a handful of peers balance each other"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Bureaucratic — offices outlast officeholders; the ledger is king"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Factional — two-three blocs in open rivalry"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Theocratic — an Immaculate (or cult) hierarchy overrules the secular"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Anarchic / contested — the seat is empty or disputed; power is up for grabs"
+  }
+ ]
+}

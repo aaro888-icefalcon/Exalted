@@ -1,0 +1,49 @@
+{
+ "id": "exalted.court_defenses",
+ "title": "Courts — Defenses (if the PC attacks)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Dragon-Blooded house guard (combat)"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a bound god / elemental ward"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "the garrison (a battle group)"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Immaculate retaliation (the Wyld Hunt hears)"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "social: ruin the PC's name, not their body"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "a poisoner / assassin on retainer"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "they scatter and go to ground (no target)"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "they have a hostage / leverage on someone the PC loves"
+  }
+ ]
+}

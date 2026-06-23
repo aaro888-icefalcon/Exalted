@@ -1,0 +1,49 @@
+{
+ "id": "exalted.community_stance",
+ "title": "Communities — Stance Toward a Revealed Exalt",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/communities.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Awe — they kneel, offer the best they have; a god has come, they ask for miracles"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "Desperate welcome — 'thank the heavens, DO something about the Problem'"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Immaculate fear — Anathema! they hide children, send word to the monk"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Wary bargaining — help is welcome, at a price, and watch your back"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "Old loyalty — a grandmother's tale says their kind once protected here"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "Greedy opportunism — how do WE profit from having a god in town?"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "Hostile / armed — a prior Exalt wronged them; trust is gone"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "Oblivious — they don't recognize what the PC is, yet"
+  }
+ ]
+}
