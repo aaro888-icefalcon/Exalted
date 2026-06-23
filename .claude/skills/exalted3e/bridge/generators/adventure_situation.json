@@ -1,0 +1,69 @@
+{
+ "id": "exalted.adventure_situation",
+ "title": "Adventures — Situation (the state of play)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/adventures.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "a settlement under a Problem (Communities)"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "a court mid-intrigue (Courts)"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "a ruin newly opened (Ruins)"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "a faction on the move (army, caravan, Wyld Hunt)"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "a cult rising or schisming (Cults)"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "a god / spirit out of balance"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a shadowland spreading"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a Wyld incursion / raksha raid"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "a succession or a death of a power"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "a Realm crackdown (tribute, Anathema-hunt)"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "a natural disaster (flood, quake, blight)"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "a rival Exalt's scheme bearing fruit"
+  }
+ ]
+}

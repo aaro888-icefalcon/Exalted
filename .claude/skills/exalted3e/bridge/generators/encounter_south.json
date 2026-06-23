@@ -1,0 +1,49 @@
+{
+ "id": "exalted.encounter_south",
+ "title": "Wilderness Encounter — South",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "fire dust smugglers"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a sand-behemoth"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Delzahn riders"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a djala cult"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a heat mirage-freehold"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "salt-zombie swarm"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "an oasis spirit's price"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a Realm satrap's tax-fleet"
+  }
+ ]
+}

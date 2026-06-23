@@ -1,0 +1,69 @@
+{
+ "id": "exalted.court_power_source",
+ "title": "Courts — Power Source (and its orphan hook)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Legitimacy (birth, mandate, an Imperial writ) — orphaned: a vacant claim everyone forges papers for"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The treasury — orphaned: unguarded gold; whoever takes it funds a coup"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Immaculate sanction — orphaned: a blessing withdrawn; heresy charges fly"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A bound god / elemental — orphaned: the binding lapses; the god is loose and owed"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "The Realm garrison / legion detachment — orphaned: leaderless troops up for the highest bidder"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Guild credit / a trade monopoly — orphaned: a defaulted debt; the caravan reroutes"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A spy network — orphaned: masterless agents selling to anyone"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Blackmail (held on a Dynast) — orphaned: the file resurfaces with no owner"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "An indispensable office (water, tribute, the courts) — orphaned: the seat empties; the function fails"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Popular love (a hero, a feeder of the poor) — orphaned: a leaderless mob looking for a champion"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A sorcerer's working / a relic — orphaned: an unattended power source anyone can claim"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Marriage alliance / hostages — orphaned: a broken match; both Houses feel the slight"
+  }
+ ]
+}

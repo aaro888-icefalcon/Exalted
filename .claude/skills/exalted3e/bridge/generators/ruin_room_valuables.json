@@ -1,0 +1,30 @@
+{
+ "id": "exalted.ruin_room_valuables",
+ "title": "Ruins — Keyed Room: Valuables",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 50,
+   "value": "none visible"
+  },
+  {
+   "min": 51,
+   "max": 67,
+   "value": "minor (coin, components)"
+  },
+  {
+   "min": 68,
+   "max": 83,
+   "value": "a Feature (hearthstone, lore, a key)"
+  },
+  {
+   "min": 84,
+   "max": 100,
+   "value": "the Reward (roll Reward), guarded"
+  }
+ ],
+ "note": "Original 1d6: 1-3 none, 4 minor, 5 a Feature, 6 the Reward."
+}

@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_find",
+ "title": "Challenges — Complication: find",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "it's hidden behind a riddle / cipher"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "the only witness is dead / mad / ghost"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "it's moving / being moved"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "a rival hunts the same thing"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "it's warded from scrying"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the trail runs through a court (Courts)"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "it's in a shadowland / Wyld zone"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "finding it alerts its guardian"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "the 'it' is a decoy"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "the source wants payment in secrets"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "it's been split into pieces"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "it finds the PC first"
+  }
+ ]
+}

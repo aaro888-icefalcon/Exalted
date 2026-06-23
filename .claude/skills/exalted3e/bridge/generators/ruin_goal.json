@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_goal",
+ "title": "Ruins — Inhabitants: Goal",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "survive"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "loot and go"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "hold the site"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "free / wake what's bound"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "study it"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "use it as a base for a wider scheme"
+  }
+ ]
+}

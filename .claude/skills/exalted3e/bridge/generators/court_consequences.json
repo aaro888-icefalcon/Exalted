@@ -1,0 +1,49 @@
+{
+ "id": "exalted.court_consequences",
+ "title": "Courts — Consequences if Destroyed",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "a power vacuum a worse faction fills"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "the orphaned power source becomes a free prize"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "famine / chaos hits the dependent community"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a rival House moves in"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "the bound god is freed and vengeful"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "the PC inherits the seat — and its Problems"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "a martyr is made; the cause grows"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "nothing changes; the bureaucracy reabsorbs the wound"
+  }
+ ]
+}

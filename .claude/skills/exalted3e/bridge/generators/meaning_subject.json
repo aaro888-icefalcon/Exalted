@@ -1,0 +1,109 @@
+{
+ "id": "exalted.meaning_subject",
+ "title": "Creation Meaning — Subject",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/01_meaning_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "a satrap"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "a god"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "a Dragon-Blood"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "a Lunar elder"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "a beastfolk"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "the Guild"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "a ghost"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "a raksha"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "a peasant"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "a Wyld Hunt"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "a demon"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "an heirloom"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "a manse"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "a Deathlord's agent"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "a spirit court"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "an oathbreaker"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "a rival"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "a cult"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "a behemoth"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "the returned Solars"
+  }
+ ]
+}

@@ -1,6 +1,11 @@
 # Generators — Router
 
-LLM-facing prompt tables for solo Exalted 3e. Roll dice **only** via `scripts/ex_dice.py roll NdM` (honest, shown). Every entity is written as **Features** (what it can do) + **Problems** (named weaknesses — and Problems *are* your adventure hooks). Combinable, optional, throwaway: roll, keep what serves the scene, discard the rest.
+LLM-facing prompt tables for solo Exalted 3e. These are the **human-readable source**; their
+verified, machine-rollable form lives in `../bridge/generators/*.json` (built by
+`scripts/build_bridge_generators.py`, routed by `../bridge/generators/registry.md`, rolled via
+`mythic-gm/scripts/dice.py table <path>`). Every entity is written as **Features** (what it can do)
++ **Problems** (named weaknesses — and Problems *are* your adventure hooks). Combinable, optional,
+throwaway: roll, keep what serves the scene, discard the rest.
 
 | File | Generates | Reach for it when… |
 |---|---|---|

@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_change_custom",
+ "title": "Challenges — Complication: change-custom",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "an Immaculate edict forbids it"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "the elders' livelihood depends on the old way"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "a god enforces the custom"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "the change shames a powerful family"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "it's load-bearing for a worse stability"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the young want it, the old will kill for tradition"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a martyr is needed first"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a rival Exalt champions the opposite"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "it spreads too fast and warps"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "it requires breaking an oath"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "the Realm reads it as rebellion"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "success creates a new, worse custom"
+  }
+ ]
+}

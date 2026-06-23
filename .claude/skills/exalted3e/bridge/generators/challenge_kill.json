@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_kill",
+ "title": "Challenges — Complication: kill",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "it has a defensive Charm that no-sells the first blow"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "it's protected by hostages / a crowd"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "killing it frees something worse"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "it accelerates when crashed (flees / grows)"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "it's the wrong target (mistaken identity)"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "it has a Wyld Hunt / faction backing"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "it can only be killed by a specific means"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "it's already dying — and warns of the real threat"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "reinforcements on a clock"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "it surrenders / begs"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "its death triggers a curse on the killer"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "it returns (ghost, regen, body-double)"
+  }
+ ]
+}

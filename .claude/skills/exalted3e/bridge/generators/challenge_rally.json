@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_rally",
+ "title": "Challenges — Complication: rally",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "old feuds split the would-be allies"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "they demand a champion's duel first"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "a rival recruiter beat the PC there"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "they're terrified of the Realm's reprisal"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "a traitor in the ranks"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "they need arms / food the PC must find"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a god must bless the muster"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "they'll follow only after a visible miracle"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "the leader is a coward / sellout"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "numbers come, but green and unled"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "success makes the PC a target faction"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "they rally — for the wrong cause"
+  }
+ ]
+}

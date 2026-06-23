@@ -1,0 +1,59 @@
+{
+ "id": "exalted.foe_defense",
+ "title": "Foes — Defensive Ability",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/generators/foes.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "Perfect dodge/parry (1/round) — spends motes to no-sell one attack outright"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Counterattack on miss/parry — a reflexive withering/decisive when the PC fails to land"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "High Hardness — shrugs decisive damage below a threshold (armor / Charm)"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "Damage cap / immunity — a damage type (fire, cold, poison, lethal) is halved or ignored"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "Regeneration — heals health levels each turn unless a condition is met"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "Soak-stacking ward — reflexive soak boost when struck"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "Hostage / meatshield — redirects harm onto a captive or minion"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Discorporation — becomes immaterial / mist to escape harm (spirit, raksha)"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Reset on crash — when Initiative-crashed, reflexively repositions and resets"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "Untouchable while X — invulnerable until a vulnerability is exposed (a seal, a name, daylight)"
+  }
+ ]
+}

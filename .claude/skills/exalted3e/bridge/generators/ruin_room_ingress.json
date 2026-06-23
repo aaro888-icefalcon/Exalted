@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_room_ingress",
+ "title": "Ruins — Keyed Room: Ingress Problem",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "sealed door (puzzle / phrase)"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "collapse blocks it"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "flooded / gassed"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "guarded"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "warded (Essence cost to pass)"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "only reachable via another room"
+  }
+ ]
+}

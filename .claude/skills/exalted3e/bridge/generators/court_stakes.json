@@ -1,0 +1,49 @@
+{
+ "id": "exalted.court_stakes",
+ "title": "Courts — Central Conflict Stakes",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/courts.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "succession"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "the treasury / tribute"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a marriage"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a heresy / Immaculate ruling"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a war (start it / stop it)"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "control of a bound god or relic"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "exposure of a scandal"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "the PC themselves (both want to recruit or remove them)"
+  }
+ ]
+}

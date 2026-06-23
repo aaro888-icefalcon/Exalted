@@ -1,0 +1,49 @@
+{
+ "id": "exalted.cult_feature",
+ "title": "Cults — Feature (what it can do)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "a real miracle on tap (heal, bless crops, ward)"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "a militia of true believers"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a spy web of the pious (everyone confesses)"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "a treasury of tithes / sacred relics"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "the patron grants a Charm-like boon to clergy"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "sanctuary network (safe houses across a region)"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "legitimacy (the local lord needs their blessing)"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a holy site / demesne the patron empowers"
+  }
+ ]
+}

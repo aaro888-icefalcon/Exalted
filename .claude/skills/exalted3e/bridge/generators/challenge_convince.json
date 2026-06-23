@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_convince",
+ "title": "Challenges — Complication: convince",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "they have high Resolve; need an Intimacy lever first"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "a rival whispers the opposite"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "they demand a deed as proof"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "they're under a Charm / oath"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "telling the truth ruins someone the PC likes"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the audience is hostile (Immaculate crowd)"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "the decider is a puppet; find the hidden hand"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a translation / cultural gap"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "they want a bribe the PC can't afford"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "success offends a third party"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "they agree — then betray"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "they'll only listen mid-crisis"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_undo_magic",
+ "title": "Challenges — Complication: undo-magic",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "the caster must be found and faced"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "unbinding frees what was bound"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "it needs a rare reagent (a ruin-dive)"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "the curse jumps to the breaker"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "a counter-Charm is needed (sorcery / Essence)"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the ward is also load-bearing for a wall / dam"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a god owns the working and objects"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "the victim resists being freed"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "it's not magic — it's mundane (the diagnosis is the trap)"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "partial undoing makes it worse"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "the Immaculate Order wants the working studied, not destroyed"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "undoing it reveals an uglier truth beneath"
+  }
+ ]
+}

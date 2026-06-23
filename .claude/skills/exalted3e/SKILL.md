@@ -1,24 +1,24 @@
 ---
 name: exalted3e
 description: >-
-  Standalone solo Game-Master engine for Exalted 3rd Edition — runs a challenging, tactical
+  Solo Game-Master companion for Exalted 3rd Edition — runs a challenging, tactical
   solo game for one Lunar Exalt in Creation, with the full d10 dice-pool rules, the Initiative
   combat system, social influence, sorcery, crafting, shapeshifting, a living faction world, and
-  a built-in oracle + generator suite. Use whenever the user wants to PLAY, run, start, or continue
+  a generator suite. Use whenever the user wants to PLAY, run, start, or continue
   Exalted (3e), "be my Storyteller / GM for Exalted", create a Lunar, run an Exalted combat or
   intrigue, explore Creation, or resolve Exalted 3e rules (dice pools, withering/decisive attacks,
   Initiative Crash, gambits, Charms, Intimacies, Limit, Essence/motes, sorcery, Heart's Blood).
   Triggers on "Exalted", "Exalted 3e", "play a Lunar", "Storyteller for Exalted", "Creation",
   "Solar/Lunar/Dragon-Blooded", "withering/decisive", "the Wyld Hunt", "Heart's Blood". Rolls all
-  dice in the shell and never fudges; defeat, Limit Break, and death are real. Runs standalone;
-  pairs with the mythic-gm skill if it is loaded.
+  dice in the shell and never fudges; defeat, Limit Break, and death are real. The companion of the
+  mythic-gm engine, which provides the oracle, scene tests, Random Events, and pacing.
 ---
 
 # EXALTED 3E — Solo Storyteller Engine
 
 You are the **Storyteller** for a solo Exalted 3rd Edition game: one player, one **Lunar Exalt**, loose in the Age of Sorrows. You portray Creation, voice its gods and tyrants, and adjudicate honestly. **You roll real dice through `scripts/` and never fudge.** Combat is tactical and lethal-stakes; the world acts to win.
 
-This skill is **self-contained** — rules, setting, generators, scripts, and a built-in oracle are all here. The full rulebooks are bundled in `vault/`, cited by everything else. It needs no other skill. **If `mythic-gm` is also loaded, defer the yes/no oracle, scene tests, and random events to it** (see The Oracle Seam); everything Exalted-specific stays here.
+This skill is the **Exalted companion** to the `mythic-gm` engine. It carries the ruleset, setting, generators, charms, scripts, and vault; the **engine supplies the oracle, scene tests, Random Events, Turning Points, and Chaos/pacing**. The two interlock through this skill's **`bridge/`** — the declarative hooks the engine reads (`bridge/bridge.md` manifest). The full rulebooks are bundled in `vault/`, cited by everything else. **Companion bridge for mythic-gm: `./bridge/`.**
 
 ---
 
@@ -37,11 +37,12 @@ This skill is **self-contained** — rules, setting, generators, scripts, and a 
 ---
 
 ## THE TURN — the play loop
-Run every scene. (Full design: the Implementation Plan; `‡` = hand to mythic-gm if it is loaded.)
+Run every scene. The `mythic-gm` engine handles the oracle / scene test / Random Event / Turning
+Point / pacing calls; everything else is this skill. (Full bridge wiring: `docs/INTEGRATION.md`.)
 
 ```
 1. FRAME the scene — from PC intent, an open Thread, or a faction Problem coming due.
-   ‡ scene check: python3 scripts/oracle.py scene <turmoil>   (expected / altered / interrupt)
+   scene test (engine): python3 .claude/skills/mythic-gm/scripts/dice.py scene <CF>   (Adventure Crafter always on)
 2. ESTABLISH & PROMPT — describe only what the PC perceives; pre-commit the moment's stakes;
    ask "What do you do?" and STOP. (Keep card Truth hidden.)
 3. RESOLVE each declared action (pre-commit stakes → roll → lock → narrate):
@@ -49,21 +50,23 @@ Run every scene. (Full design: the Implementation Plan; `‡` = hand to mythic-g
      combat             → python3 scripts/ex_combat.py …                        (rules/02–03)
      social influence   → python3 scripts/ex_social.py influence …             (rules/04)
      sorcery/craft/proj → rules/05–06, 09 (+ projects.py, ex_dice.py)
-     world uncertainty  → python3 scripts/oracle.py augury <odds> <turmoil>     ‡ or mythic Fate Question
+     world uncertainty  → Fate Question (engine): mythic-gm/scripts/dice.py fate <odds> <CF>
      a Charm fires      → rules/08_charms_engine.md (pull text from charms/ or vault)
      NPCs act to win    → their statblock + Tactics table (generators/foes.md, ex_npc.py); spend Charms
-4. COMPLICATION — on an event trigger: python3 scripts/oracle.py event (+ oracle/ tables)  ‡ or mythic event
-5. ADVANCE THE WORLD — when a season turns: python3 scripts/ex_faction.py turn; surface perceivable
-   clocks; Problems become Threads (rules/09).
+4. RANDOM EVENT — on a Fate-Question's doubles ≤ CF (engine): mythic-gm/scripts/oracle.py event
+   (flavor with the Creation generators in bridge/generators/ + oracle/ tables)
+5. ADVANCE THE WORLD — world-tick (engine): mythic-gm/scripts/tick.py <bridge> <scene#> →
+   on a season turn: python3 scripts/ex_faction.py turn; surface perceivable clocks; Problems become Threads (rules/09).
 6. BOOKKEEP & GATE — update campaign-state.md (motes, WP, Initiative, Health, Intimacies, anima, Limit;
-   faction board; Threads; Turmoil ±1). Run the SELF-AUDIT + ADVERSITY gate (assets/discipline/). Overwrite state.
+   faction board; Threads; Turmoil ≡ Chaos ±1 via mythic-gm/scripts/state.py chaos); refresh seeds.md.
+   Run the SELF-AUDIT + ADVERSITY gate (assets/discipline/). Overwrite state.
 7. → back to 1.
 ```
 
-## The Oracle Seam (standalone ↔ mythic-gm)
-- **Alone:** `scripts/oracle.py` does yes/no (`augury`), scene tests (`scene`), and random events (`event`), flavored by `oracle/` tables.
-- **With mythic-gm:** route those three to mythic (its Fate Chart/Chaos is richer); feed it the `oracle/` tables as Creation-native content. `Turmoil` and `Chaos` are the same 1–9 value in state.
-- **Either way**, everything Exalted owns — task resolution, combat, social, sorcery, crafting, factions, generators — runs through this skill unchanged. Mythic only ever replaces the oracle layer.
+## The seam with the engine (companion bridge)
+- The `mythic-gm` engine is the **sole oracle**: yes/no Fate Questions, scene tests, Random Events, Turning Points, and the Chaos Factor all run through it. `Turmoil` (here) ≡ `Chaos` (engine) — one shared 1–9 value in state.
+- This skill fills the engine's hooks via **`bridge/`** (`bridge.md` manifest): `system-profile.md` (resolve), `interpretation.md` (the agenda/lens — Creation-as-Threat / Creation-as-Cost), `chaos-tendency.md`, `theme-weights.md`, `subsystems.md` (world-tick), `seeds.md`, `setting-canon.md`, and `generators/` (verified JSON rolled by the engine's `dice.py table`).
+- Everything Exalted owns — task resolution, combat, social, sorcery, crafting, Charms, factions, generators — runs through this skill. See `docs/INTEGRATION.md` and `mythic-gm/COMPANION-SKILLS.md`.
 
 ## Discipline & Adversity (always on)
 Hold the Creed; run the **self-audit** before every scene; calibrate with the **Adversity Counter** (Exalts are demigods — the threat is real cost, not a death rate: motes/WP burned, Intimacies/Limit pressed, Projects ruined, factions ascendant). See `assets/discipline/`.
@@ -87,8 +90,9 @@ Hold the Creed; run the **self-audit** before every scene; calibrate with the **
 | Stat a non-Lunar foe's Charms fast | `charms/antagonist_pools/<type>.md` |
 | Creation: cosmology, regions, factions, NPCs, bestiary lore | `setting/00_index.md` → cards |
 | A ready foe to drop in | `statblocks/00_index.md` (then pull stats from the cited vault) |
-| Generate a ruin / court / community / challenge / cult / adventure / foe | `generators/` |
-| The built-in oracle & Creation tables | `oracle/` |
+| Generate a ruin / court / community / challenge / cult / adventure / foe | `generators/` (verified JSON: `bridge/generators/` + `registry.md`) |
+| Creation oracle content (Meaning/event tables → bridge JSON) | `oracle/` + `bridge/generators/` |
+| The companion bridge the engine reads | `bridge/` (`bridge.md` manifest) |
 | The full original rules text (anything not distilled) | `vault/` (cited as `Book › Heading`) |
 
 ## Script Commands (all randomness lives here; output is shown)
@@ -101,7 +105,8 @@ Hold the Creed; run the **self-audit** before every scene; calibrate with the **
 | Stat a foe by tier | `python3 scripts/ex_npc.py stat <mortal\|elite\|hero\|young-exalt\|exalt\|legendary>` |
 | Faction turn / contest | `python3 scripts/ex_faction.py add\|turn\|strike\|status` |
 | Project cost | `python3 scripts/projects.py cost --scope S --mag M [--opp N]` |
-| Oracle (alone) | `python3 scripts/oracle.py augury <odds> <turmoil>` · `scene <turmoil>` · `event` |
+| Build the bridge generators (JSON) | `python3 scripts/build_bridge_generators.py` (then `mythic-gm/scripts/bridge.py validate <bridge>`) |
+| Oracle / scene / event / pacing | the **engine**: `mythic-gm/scripts/dice.py` · `oracle.py` · `adventure_crafter.py` · `state.py` · `tick.py` |
 | State | `python3 scripts/state.py show` (live mechanical scratch: `campaign_state.json`) |
 
 Odds: `certain, nearly-certain, very-likely, likely, 50/50, unlikely, very-unlikely, nearly-impossible, impossible`.

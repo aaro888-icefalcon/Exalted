@@ -1,0 +1,59 @@
+{
+ "id": "exalted.foe_attack_pattern",
+ "title": "Foes — Attack-Pattern (signature offense)",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/generators/foes.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "Onslaught flurry — multiple withering attacks to strip the PC's Initiative fast"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Crippling decisive — one big decisive aimed to land a wound penalty / Crippling effect"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "Opening ambush — surprise decisive from concealment before Join Battle settles"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "Gambit specialist — leans on gambits: disarm, knockdown, grapple (set difficulty)"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "Reach / zone control — denies approach; punishes movement into its range"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "Poison / lingering — low up-front damage, a debuff that ticks each turn (Essence-fueled)"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "Battle-group / swarm — attacks as a unit; Magnitude soaks losses; drowns in numbers"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Essence blast — ranged Charm attack ignoring some soak / Hardness"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Counter-puncher — weak offense, devastating on the riposte"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "Escalator — grows stronger as the fight drags / as it takes damage"
+  }
+ ]
+}

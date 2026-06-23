@@ -1,0 +1,59 @@
+{
+ "id": "exalted.foe_impairing",
+ "title": "Foes — Impairing Power (the save-or-suck)",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "exalted3e/generators/foes.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "Fear aura — onslaught to Resolve; failed = Initiative loss / can't approach"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Paralysis / stasis — a gambit or Charm that roots the PC in place"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "Mind-control gambit — a social attack mid-combat: turn an ally, force a step back"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "Mutation / curse touch — lasting penalty until cleansed (Challenges: undo-magic)"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "Mote-drain / anima-douse — strips the PC's motes or suppresses Charms"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "Blinding / sense-deny — fog, darkness, illusion: attack penalties"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "Confusion / Wyld-warp — the battlefield itself shifts (raksha, Wyld zone)"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Disarm / sunder — removes the PC's weapon or breaks gear"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Sticky / grapple-lock — holds the PC fast, dragging Initiative down each turn"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "Despair / Intimacy-strike — a social nuke that erodes a motivating Intimacy"
+  }
+ ]
+}

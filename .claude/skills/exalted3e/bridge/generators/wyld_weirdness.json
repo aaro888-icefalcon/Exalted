@@ -1,0 +1,49 @@
+{
+ "id": "exalted.wyld_weirdness",
+ "title": "Wyld Weirdness",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/02_event_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "a road that wasn't there"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "your reflection lies"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "a freehold offers a bargain"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "mutating rain"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "a hobgoblin market"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "a memory made flesh"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "time slips a day"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a raksha duel of dreams"
+  }
+ ]
+}

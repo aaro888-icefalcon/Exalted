@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_build",
+ "title": "Challenges — Complication: build",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "the site is claimed / sacred"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "the materials need a ruin-dive"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "the only artisan is held hostage / indentured"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "geomancy backfires without a rite"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "a rival starts the same build faster"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the Guild owns the supply line"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "a bound god demands tribute to allow it"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "labor revolts mid-project"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "the Realm taxes / forbids it"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "it works — but draws a behemoth / elemental"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "a hidden flaw will collapse it later"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "finishing it requires a Mighty Deed (Projects)"
+  }
+ ]
+}

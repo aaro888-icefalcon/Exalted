@@ -1,0 +1,109 @@
+{
+ "id": "exalted.meaning_action",
+ "title": "Creation Meaning — Action",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/oracle/01_meaning_tables.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "Betray"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Bestow"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Demand"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Pursue"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Conceal"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Threaten"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Bargain"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Reveal"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Hunt"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Bind"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Corrupt"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Liberate"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Usurp"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Mourn"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Ascend"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Sacrifice"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Awaken"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Ruin"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Guard"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Transform"
+  }
+ ]
+}

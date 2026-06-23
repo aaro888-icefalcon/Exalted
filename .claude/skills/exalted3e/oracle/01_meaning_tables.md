@@ -1,6 +1,9 @@
 # Meaning tables (Creation-flavored)
 
-Roll two with `ex_dice.py roll 1d20` (or take the pull from `oracle.py event`) and interpret in context.
+Source for `bridge/generators/meaning_{action,theme,subject}.json` (built by
+`scripts/build_bridge_generators.py`). Roll through the engine:
+`mythic-gm/scripts/dice.py table <…/bridge/generators/meaning_action.json>` — or take the pull as
+part of the engine's `oracle.py event` chain, then read the Creation word here. Interpret in context.
 
 **Action (d20):** 1 Betray · 2 Bestow · 3 Demand · 4 Pursue · 5 Conceal · 6 Threaten · 7 Bargain · 8 Reveal · 9 Hunt · 10 Bind · 11 Corrupt · 12 Liberate · 13 Usurp · 14 Mourn · 15 Ascend · 16 Sacrifice · 17 Awaken · 18 Ruin · 19 Guard · 20 Transform
 

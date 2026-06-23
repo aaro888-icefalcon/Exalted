@@ -1,0 +1,40 @@
+{
+ "id": "exalted.cult_subtype",
+ "title": "Cults — Faction Subtype (Goal archetype for its faction turn)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/cults.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Theocrat — an Immaculate cell or established temple (consolidates, enforces doctrine)"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Predator — a death-cult or demon-cult (feeds on a region, recruits the desperate)"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Survivor — a folk-faith under Realm pressure (hides, hoards loyalty)"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Schemer — a secret / syncretic cult working through other factions"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Conqueror — a zealous expansionist faith (convert by sword)"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Tyrant — an Exalt-worship cult bound to one ruler's cult of personality"
+  }
+ ],
+ "note": "Usually CHOSEN to fit the cult, then drives its ex_faction.py turn."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "exalted.ruin_room_mood",
+ "title": "Ruins — Keyed Room: Mood",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "reverent"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "ruined / sad"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "tense"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "wrong / uncanny"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "serene (a trap)"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "violent aftermath"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "frozen mid-moment"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "alive, watching"
+  }
+ ]
+}

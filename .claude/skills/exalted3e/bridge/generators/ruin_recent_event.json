@@ -1,0 +1,39 @@
+{
+ "id": "exalted.ruin_recent_event",
+ "title": "Ruins — Inhabitants: Recent Event",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "a death"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "a discovery"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "a betrayal"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "a failed ritual"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "an arrival (yours, or another's)"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "the Hazard worsened"
+  }
+ ]
+}

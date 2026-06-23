@@ -1,0 +1,49 @@
+{
+ "id": "exalted.ruin_room_purpose",
+ "title": "Ruins — Keyed Room: Purpose",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "threshold / gate"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "great hall"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "workshop / forge"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "archive / vault"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "shrine / tomb"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "quarters"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "the engine / core"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "a wound (breach, sinkhole, Wyld-pool)"
+  }
+ ]
+}

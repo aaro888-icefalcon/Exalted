@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_clear_ruin",
+ "title": "Challenges — Complication: clear-ruin",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "the Hazard reactivates"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "someone got there first"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "the 'monster' is a bound innocent"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "clearing it frees something sealed"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "a Wyld Hunt is en route"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "the map is wrong"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "the prize is cursed / keyed"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a patron wants it intact"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "the path floods / collapses on a timer"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "the inhabitants surrender — now they're dependents"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "it's a trap baited by a rival"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "the real ruin is below the ruin"
+  }
+ ]
+}

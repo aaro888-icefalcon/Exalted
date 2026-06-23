@@ -1,0 +1,69 @@
+{
+ "id": "exalted.ruin_reward",
+ "title": "Ruins — Reward (Feature gained / Catch attached)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/ruins.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "An artifact weapon/armor (needs attunement) — keyed to a dead House that wants it back"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A hearthstone + its manse's location — the manse is occupied / cursed"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A manse command-phrase — someone else also learned it"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "First Age lore / a map to the next ruin — the map is also a summons"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A sorcerous initiation or a working's notes — finishing it demands a Mighty Deed"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A bound spirit/elemental as ally — it serves the letter, not the spirit, of the pact"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Tribute-wealth (Resources for a Project) — its owner is alive and powerful"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A behemoth scale / rare crafting trove — the behemoth notices it's gone"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A prisoner freed who owes the PC — they're hunted, and now so is the PC"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Blackmail ledgers on a Dynast/Guild factor — holding them paints a target"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A geomantic node / demesne to claim — claiming it requires building (Project) + a guardian"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A secret (a Truth that reframes the campaign) — knowing it makes the PC a loose end to someone"
+  }
+ ]
+}

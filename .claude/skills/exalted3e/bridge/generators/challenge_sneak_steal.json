@@ -1,0 +1,69 @@
+{
+ "id": "exalted.challenge_sneak_steal",
+ "title": "Challenges — Complication: sneak-steal",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "exalted3e/generators/challenges.md",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "a bound god / elemental warden"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "First Age wards trip on Essence use"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "a witness who can't be silenced cleanly"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "the prize is bait"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "the layout shifts (Wyld / living-manse)"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "a rival thief is inside already"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "it's too heavy / large / alive to carry"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "a Charm-user can sense intruders"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "the route only opens on a schedule"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "taking it triggers a curse / alarm-to-worse"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "the owner is innocent / sympathetic"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "success — but a clue points home to the PC"
+  }
+ ]
+}
